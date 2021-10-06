@@ -8,7 +8,107 @@
 <style>
     .buffer{
         height:20vh;
+        background-image: url("paper.gif");
+        background-color: #242456;
     }
+    .table{
+      border: 1px solid black;
+      width:60vw;
+
+          }
+    
+    .table tr {
+      border: 1px solid black;
+      padding:3px;
+    }
+
+    .table td {
+      border: 1px solid black;
+      padding:5px;
+    }
+
+    .tick_area{
+      width:10vw;
+    }
+
+    .table tr:hover {background-color: #ddd;}
+
+    /* Customize the label (the container) */
+.container {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: -0.5vh;
+  left: 4vw;
+  height: 25px;
+  width: 25px;
+  background-color: #bcc7f3;
+}
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.container input:checked ~ .checkmark {
+  background-color: #242456;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.container .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+    
+progress{
+  display:block;
+  width:60vw;
+
+}
+
+    
+
 </style>
 </head>
   
@@ -20,6 +120,67 @@
         <h1>Welcome to the Maths Functional skills main site!</h1>
 
         <p>From his central site you can track your progress, access our learning materials and test yourself as you prepare for the level 2 exams</p>
+    </div>
+
+    <div id = 'main tracker'>
+     <p>Use this tracker table to navigate the site and keep track of your exam readiness</p>
+     
+     
+     <label for="studied">Study progress:</label>
+     <progress id="studied" max="100" value="70"> 70% </progress>
+
+     <label for="practiced">Practice completed:</label>
+     <progress id="practiced" max="100" value="70"> 70% </progress>
+
+     <label for="exam_ready">Exam readiness:</label>
+     <progress id="exam_ready" max="100" value="70"> 70% </progress>
+      
+    <table class='table'>
+      <tr>
+        <td>Module</td><td>Revised?</td><td>Practiced</td><td>Exam ready</td>
+      </tr>
+
+      <tr>
+        <td><a href=''>Module 1: Mathematics fundamentals</a></td>
+        <td class='tick_area'><label class="container">
+          <input type="checkbox">
+          <span class="checkmark"></span>
+        </label></td>
+        <td class='tick_area'><label class="container">
+          <input type="checkbox">
+          <span class="checkmark"></span>
+        </label></td>
+        <td class='tick_area'><label class="container">
+          <input type="checkbox">
+          <span class="checkmark"></span>
+        </label></td>
+        
+      </tr>
+
+      <tr>
+        <td><a href=''>Module 2: Mathematics fundamentals</a></td>
+        
+      </tr>
+
+      <tr>
+        <td><a href=''>Module 3: Mathematics fundamentals</a></td>
+        
+      </tr>
+
+      <tr>
+        <td><a href=''>Module 4: Mathematics fundamentals</a></td>
+        
+      </tr>
+
+      <tr>
+        <td><a href=''>Module 5: Mathematics fundamentals</a></td>
+       
+      </tr>
+
+
+    </table>
+
+
     </div>
      
   </body>
