@@ -10,10 +10,36 @@
         height:20vh;
         background-image: url("paper.gif");
         background-color: #242456;
+        margin-bottom: 2vh;
+        margin-top: 2vh;
     }
+
+    .banner{
+      max-height:20vh;
+        background-color: #f4f4f4;
+        margin-bottom: 2vh;
+        margin-top: 2vh;
+
+    }
+
+    .mod_desc{
+      height:2px;
+      overflow-y: hidden;
+    }
+
+    .table tr:hover .mod_desc{
+      height:auto;
+
+    }
+
+    #main_tracker{
+      background-color: #ccc;
+      border-style: ridge;
+    }
+
     .table{
       border: 1px solid black;
-      width:60vw;
+      width:59vw;
 
           }
     
@@ -29,6 +55,10 @@
 
     .tick_area{
       width:10vw;
+    }
+
+    .mod_desc{
+      font-size:0.8em;
     }
 
     .table tr:hover {background-color: #ddd;}
@@ -103,8 +133,18 @@
     
 progress{
   display:block;
-  width:60vw;
+  width:17vw;
 
+}
+
+#progress_bars{
+  position:fixed;
+  left:1vw;
+  top:1vh;
+  width:18vw;
+  height:auto;
+  border-style: solid;
+  background-color: #bac4c6;
 }
 
     
@@ -112,28 +152,34 @@ progress{
 </style>
 </head>
   
-  <body style='font-family:atlas;font-size:25px;text-align:center;background-color:#f4f4f4;max-width:1000px;margin:auto;color:#242456'>
-    
-    <div class = 'buffer'></div>
-    
-    <div>
-        <h1>Welcome to the Maths Functional skills main site!</h1>
+  <body style='font-family:atlas;font-size:25px;text-align:center;background-color:#f4f4f4;max-width:60vw;margin:auto;color:#242456'>
+   
+   <div id='progress_bars'>
+     <p>Welcome back to your functional skills journey</p>
+    <label for="studied">Study progress:</label>
+     <progress id="studied" max="100" value="0"> 0% </progress>
 
-        <p>From his central site you can track your progress, access our learning materials and test yourself as you prepare for the level 2 exams</p>
+     <label for="practiced">Practice completed:</label>
+     <progress id="practiced" max="100" value="0"> 0% </progress>
+
+     <label for="exam_ready">Exam readiness:</label>
+     <progress id="exam_ready" max="100" value="0">  </progress>
     </div>
 
-    <div id = 'main tracker'>
+
+    <div class = 'buffer'></div>
+    
+    <div class = 'banner'>
+        <h1>Functional skills navigator</h1>
+
+        <p>From this central page you can track your progress, access our learning materials and test yourself as you prepare for the level 2 exams</p>
+    </div>
+
+    <div id = 'main_tracker'>
      <p>Use this tracker table to navigate the site and keep track of your exam readiness</p>
      
      
-     <label for="studied">Study progress:</label>
-     <progress id="studied" max="100" value="70"> 70% </progress>
-
-     <label for="practiced">Practice completed:</label>
-     <progress id="practiced" max="100" value="70"> 70% </progress>
-
-     <label for="exam_ready">Exam readiness:</label>
-     <progress id="exam_ready" max="100" value="70"> 70% </progress>
+     
       
     <table class='table'>
       <tr>
@@ -141,40 +187,87 @@ progress{
       </tr>
 
       <tr>
-        <td><a href=''>Module 1: Mathematics fundamentals</a></td>
+        <td><a href=''>Module 1.1: Basic operations</a><br>
+        <p class='mod_desc'>cover the basics of non-calculator techniques for multiplication, division,addition and subtraction</p></td>
         <td class='tick_area'><label class="container">
-          <input type="checkbox">
+          <input class='revision' type="checkbox">
           <span class="checkmark"></span>
         </label></td>
         <td class='tick_area'><label class="container">
-          <input type="checkbox">
+          <input class ='practiced' type="checkbox">
           <span class="checkmark"></span>
         </label></td>
         <td class='tick_area'><label class="container">
-          <input type="checkbox">
+          <input class='exam_ready' type="checkbox">
           <span class="checkmark"></span>
         </label></td>
         
       </tr>
 
       <tr>
-        <td><a href=''>Module 2: Mathematics fundamentals</a></td>
-        
+        <td><a href=''>Module 1.2: Order of operations</a><br>
+          <p class='mod_desc'>Cover how to break down calculations and complete them in the correct order</p></td></td>
+        <td class='tick_area'><label class="container">
+          <input class='revision' type="checkbox">
+          <span class="checkmark"></span>
+        </label></td>
+        <td class='tick_area'><label class="container">
+          <input class ='practiced' type="checkbox">
+          <span class="checkmark"></span>
+        </label></td>
+        <td class='tick_area'><label class="container">
+          <input class='exam_ready' type="checkbox">
+          <span class="checkmark"></span>
+        </label></td>
       </tr>
 
       <tr>
-        <td><a href=''>Module 3: Mathematics fundamentals</a></td>
-        
+        <td><a href=''>Module 1.3: Calculators</a><br>
+          <p class='mod_desc'>Working on best practices when using your calculator in exams</p></td>
+        <td class='tick_area'><label class="container">
+          <input class='revision' type="checkbox">
+          <span class="checkmark"></span>
+        </label></td>
+        <td class='tick_area'><label class="container">
+          <input class ='practiced' type="checkbox">
+          <span class="checkmark"></span>
+        </label></td>
+        <td class='tick_area'><label class="container">
+          <input class='exam_ready' type="checkbox">
+          <span class="checkmark"></span>
+        </label></td>
       </tr>
 
       <tr>
         <td><a href=''>Module 4: Mathematics fundamentals</a></td>
-        
+        <td class='tick_area'><label class="container">
+          <input class='revision' type="checkbox">
+          <span class="checkmark"></span>
+        </label></td>
+        <td class='tick_area'><label class="container">
+          <input class ='practiced' type="checkbox">
+          <span class="checkmark"></span>
+        </label></td>
+        <td class='tick_area'><label class="container">
+          <input class='exam_ready' type="checkbox">
+          <span class="checkmark"></span>
+        </label></td>
       </tr>
 
       <tr>
         <td><a href=''>Module 5: Mathematics fundamentals</a></td>
-       
+        <td class='tick_area'><label class="container">
+          <input class='revision' type="checkbox">
+          <span class="checkmark"></span>
+        </label></td>
+        <td class='tick_area'><label class="container">
+          <input class ='practiced' type="checkbox">
+          <span class="checkmark"></span>
+        </label></td>
+        <td class='tick_area'><label class="container">
+          <input class='exam_ready' type="checkbox">
+          <span class="checkmark"></span>
+        </label></td>
       </tr>
 
 
@@ -182,6 +275,54 @@ progress{
 
 
     </div>
-     
+    <div class = 'buffer'></div>
+
+    <script>
+      const input = document.querySelectorAll('input');
+
+
+      for(let i = 0; i<input.length;i++){
+      input[i].addEventListener('click',progress_fill);
+      };
+
+
+
+
+      function progress_fill(){
+          var classy = this.className;
+          console.log(classy);
+          switch(classy){
+            case 'revision':
+              var bar = 'studied'
+              break;
+            case 'practiced':
+            var bar = 'practiced'
+              break;
+            
+              case 'exam_ready':
+            var bar = 'exam_ready'
+              break;
+
+          }
+          
+          var checks = document.getElementsByClassName(classy);
+          var count = 0;
+          console.log(checks.length)
+          for (let i=0;i<checks.length;i++){
+            if(checks[i].checked==true){
+               count = count+1;
+            }
+            else{
+              count = count;
+            }
+
+          var percent = count*100/checks.length;
+          document.getElementById(bar).value = percent;
+          }
+
+      }
+
+
+    </script>
   </body>
 </html>
