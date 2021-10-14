@@ -1,0 +1,265 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Resource Navigator</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+    .buffer{
+        height:20vh;
+        background-image: url("paper.gif");
+        background-color: #242456;
+        margin-bottom: 2vh;
+        margin-top: 2vh;
+    }
+    .section{
+        border-style:solid;
+        border-radius: calc();
+        border-color: cornflowerblue;
+    }
+    .banner{
+      max-height:20vh;
+        background-color: #f4f4f4;
+        margin-bottom: 2vh;
+        margin-top: 2vh;
+
+    }
+
+    .mod_desc{
+      height:2px;
+      overflow-y: hidden;
+    }
+
+    .table tr:hover .mod_desc{
+      height:auto;
+
+    }
+
+    #main_tracker{
+      background-color: #ccc;
+      border-style: ridge;
+    }
+
+    .table{
+      border: 1px solid black;
+      max-width:80vw;
+      font-size: 1rem;
+
+          }
+    
+    .table tr {
+      border: 1px solid black;
+      padding:3px;
+    }
+
+    .table td {
+      border: 1px solid black;
+      padding:5px;
+    }
+
+    .tick_area{
+      width:10vw;
+    }
+
+    .mod_desc{
+      font-size:0.8rem;
+    }
+
+    .table tr:hover {background-color: #ddd;}
+
+    /* Customize the label (the container) */
+.container {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: -0.5vh;
+  left: 4vw;
+  height: 25px;
+  width: 25px;
+  background-color: #bcc7f3;
+}
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.container input:checked ~ .checkmark {
+  background-color: #242456;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.container .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+    
+progress{
+  display:block;
+  width:17vw;
+
+}
+
+#progress_bars{
+  position:fixed;
+  left:1vw;
+  top:1vh;
+  width:18vw;
+  height:auto;
+  border-style: solid;
+  background-color: #bac4c6;
+}
+
+    
+
+</style>
+</head>
+  
+  <body style='font-family:atlas;font-size:25px;text-align:center;background-color:#f4f4f4;max-width:60vw;margin:auto;color:#242456'>
+ 
+
+
+    <div class = 'buffer'></div>
+    
+    <div class = 'banner'>
+        <h1>Basic number</h1>
+
+        <p>In this first module we will cement your core numeracy skills and help prepare you for all the following content.</p>
+    </div>
+
+    <div class = 'section'>
+        <h2>Addition</h2>
+        <p>In an age of excel and calculators you may have forgotten manual techniques for addition, watch the video below for a refresher, then attempt the practice quizes and exam questions to get exam ready</p>
+        <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/de00a87a28864b7784607282e65f40dd" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+        
+        <table>
+            <tr>
+                <td><h4>Exercises</h4></td>
+            </tr>
+            <tr>
+                <td><a>level 1</a></td><td><a>level 2</a></td><td><a>level 3</a></td>
+            </tr>
+            <tr>
+                <td><h4>Exam style quiz</h4></td>
+            </tr>
+            <tr>
+                <td><a>Quiz 1</a></td>
+            </tr>
+            <tr>
+                <td><h4>Exam questions</h4></td>
+            </tr>
+            <tr>
+                <td><a>Question bank</a></td>
+            </tr>
+
+
+
+        </table>
+    
+    
+    
+    </div>
+
+
+
+
+
+
+
+
+
+
+    </div>
+    <div class = 'buffer'></div>
+
+    <script>
+      const input = document.querySelectorAll('input');
+
+
+      for(let i = 0; i<input.length;i++){
+      input[i].addEventListener('click',progress_fill);
+      };
+
+
+
+
+      function progress_fill(){
+          var classy = this.className;
+          console.log(classy);
+          switch(classy){
+            case 'revision':
+              var bar = 'studied'
+              break;
+            case 'practiced':
+            var bar = 'practiced'
+              break;
+            
+              case 'exam_ready':
+            var bar = 'exam_ready'
+              break;
+
+          }
+          
+          var checks = document.getElementsByClassName(classy);
+          var count = 0;
+          console.log(checks.length)
+          for (let i=0;i<checks.length;i++){
+            if(checks[i].checked==true){
+               count = count+1;
+            }
+            else{
+              count = count;
+            }
+
+          var percent = count*100/checks.length;
+          document.getElementById(bar).value = percent;
+          }
+
+      }
+
+
+    </script>
+  </body>
+</html>
