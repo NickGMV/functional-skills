@@ -10,8 +10,14 @@
     </head>
 
     <body>
+
+        
+
         <input type="file" id="uploadfile" onChange="readImage(this)">
+        
         <script>
+        readFromSite("assets/csv test js.csv")
+
         var obj_csv = {
             size:0,
             dataFile:[]
@@ -44,6 +50,21 @@
         }
 
 
+
+
+
+        /////////////////////////// creating a function to read pre built csvs /////////////////////////////////////
+
+        function readFromSite(pathName){
+            fetch(pathName,{credentials: 'same-origin'})
+            .then(response=> console.log(`found ${pathname}`))
+            .then(data=>{
+                obj_csv.size = e.total;
+         obj_csv.dataFile = e.target.result
+                    console.log(obj_csv.dataFile)
+                    parseData(obj_csv.dataFile)
+
+            })}
 
 
 
