@@ -7,8 +7,8 @@
 
 <style>
     .buffer{
-        height:20vh;
-        background-image: url("paper.gif");
+        height:50vh;
+        background-image: url("./assets/mv\ topper.png");
         background-color: #242456;
         margin-bottom: 2vh;
         margin-top: 2vh;
@@ -16,7 +16,7 @@
 
     .banner{
       max-height:20vh;
-        background-color: #f4f4f4;
+        background-color:#ddd;
         margin-bottom: 2vh;
         margin-top: 2vh;
 
@@ -140,21 +140,40 @@ progress{
 
 #progress_bars{
   position:fixed;
-  left:1vw;
-  top:1vh;
+  left:0.5vw;
+  top:20vh;
   width:18vw;
   height:auto;
   border-style: solid;
   background-color: #bac4c6;
+  font-size: 2vmin;
+}
+.logo{
+  height: 22vh;
+  width:auto;
+  position: fixed;
+  left: 2.5vw;
+  top:0.5vh;
+}
+.splitter{
+  width: 60vw;
+  height:auto;
+  margin: 5vh 0;
 }
 
-    
+ul{
+  list-style-type: none;
+  margin-bottom: 5vh 0;
+}
 
+   
 </style>
 </head>
   
-  <body style='font-family:atlas;font-size:25px;text-align:center;background-color:#f4f4f4;max-width:60vw;margin:auto;color:#242456'>
-   
+  <body style='font-family:atlas;font-size:25px;text-align:center;background-color:#ddd;max-width:60vw;margin:auto;color:#242456'>
+
+   <div class = 'logo'><img class = 'logo' src = "./assets/Multiverse_Logo_RGB_Indigo-01.png"></div>
+
    <div id='progress_bars'>
      <p>Welcome back to your functional skills journey</p>
     <label for="studied">Study progress:</label>
@@ -182,7 +201,7 @@ progress{
      
      
       
-    <table class='table'>
+    <table id = "summary_table" class='table'>
       <tr>
         <td>Module</td><td>Revised</td><td>Practiced</td><td>Exam ready</td>
       </tr>
@@ -273,9 +292,39 @@ progress{
 
 
     </table>
+  </div>
+     
+
+  <div class = "splitter"><img class = "splitter" src = "./assets/Multiverse_Notations_RGB_Navy-08.png"></div>
 
 
-    </div>
+    <ul id = "more_resources">
+      <h3>More useful maths resources</h3>
+      <li><a href = '#'>helpful link 1</a></li>
+      <li><a href = '#'>helpful link 1</a></li>
+      <li><a href = '#'>helpful link 1</a></li>
+      <li><a href = '#'>helpful link 1</a></li>
+      <li><a href = '#'>helpful link 1</a></li>
+      <li><a href = '#'>helpful link 1</a></li>
+    </ul>
+
+    <div class = "splitter"><img class = "splitter" src = "./assets/Multiverse_Notations_RGB_Navy-08.png"></div>
+
+    <ul id = "apprentice_support">
+      <h3>More useful maths resources</h3>
+      <li><a href = '#'>helpful link 1</a></li>
+      <li><a href = '#'>helpful link 1</a></li>
+      <li><a href = '#'>helpful link 1</a></li>
+      <li><a href = '#'>helpful link 1</a></li>
+      <li><a href = '#'>helpful link 1</a></li>
+      <li><a href = '#'>helpful link 1</a></li>
+    </ul>
+
+
+
+
+
+    
     <div class = 'buffer'></div>
 
     <script>
