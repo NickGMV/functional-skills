@@ -32,9 +32,16 @@ for part in arr:
             # find videos and load them
              
             # find and add pdfs to a table
-
-
-    
+            try:
+                pdf_path = f'{base_path}/{section}/exercises'
+                # content\part_1\section_1\exercises\T01 Class Ex - Directed Numbers.pdf
+                print(pdf_path)
+                pdfs = os.listdir(pdf_path) 
+                #print(pdfs)
+                #for pdf in pdfs:
+                    #f.write(f'<embed class="pdf coached" src="{pdf}" type="application/pdf">')
+            except:
+                print(f'no exercises folder present in {section}')
 
    
 
