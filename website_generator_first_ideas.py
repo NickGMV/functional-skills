@@ -2,13 +2,15 @@
 # Recycle file walking system to try and generate functional skills site
 
 
+
+
 ######################
 
 
 
 import os
 base_path = '/Users/Nick/Documents/GitHub/functional-skills/content'
-course_parts = []
+#course_parts = []
 
 # first find all content files
 arr = os.listdir(base_path)
@@ -33,11 +35,11 @@ for part in arr:
              
             # find and add pdfs to a table
             try:
-                pdf_path = f'{base_path}/{section}/exercises'
+                pdf_path = f'{base_path}/{section}/ex'
                 # content\part_1\section_1\exercises\T01 Class Ex - Directed Numbers.pdf
-                print(pdf_path)
-                pdfs = os.listdir(pdf_path) 
-                #print(pdfs)
+                print(f'pdfs are stored in {pdf_path}')
+                pdfs = os.listdir(pdf_path)
+                print(pdfs)
                 #for pdf in pdfs:
                     #f.write(f'<embed class="pdf coached" src="{pdf}" type="application/pdf">')
             except:
