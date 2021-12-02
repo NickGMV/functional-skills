@@ -27,25 +27,48 @@ for part in arr:
         page_name = f"{part}_{section}_lessons.html"
         with open(page_name,'w') as f:
             f.write('<!DOCTYPE html>\n<html lang ="en">\n<link href="fs_styles.css" type= "text/css" rel="stylesheet"/>\n<!--comment -->\n\n\n')
-            f.write(f'<head>\n <title>{part}{section} lessons </title>\n </head> \n<body>\n<hr>\n\n')
+            f.write(f'<head>\n <title>{part}{section} lessons </title>\n</head> \n<body>\n<hr>\n\n')
 
             # now lesson page has been established find resource types.
-
+            
             # find videos and load them
              
-            # find and add pdfs to a table
+            # find pdfs of exercises
+
+            f.write(f'<h2> Practice your skills using our exercises</h2>')
             try:
-                pdf_path = f'{base_path}/{section}/ex'
+                pdf_path = f'{base_path}/{part}/{section}/pdfs'
                 # content\part_1\section_1\exercises\T01 Class Ex - Directed Numbers.pdf
                 print(f'pdfs are stored in {pdf_path}')
-                pdfs = os.listdir(pdf_path)
-                print(pdfs)
+                #pp = os.listdir(f'{base_path}/{section}')
+                pp = os.listdir(f'{base_path}/{part}/{section}/pdfs')
+                print(pp)
+                for pdf in pp:
+                    print(pdf)
+                    f.write(f'<iframe class="pdf coached" src="./content/{part}/{section}/pdfs/{pdf}"  type="application/pdf" allow="fullscreen"></iframe>\n')
                 #for pdf in pdfs:
-                    #f.write(f'<embed class="pdf coached" src="{pdf}" type="application/pdf">')
+                #f.write(f'<embed class="pdf coached" src="{pdf}" type="application/pdf">')
             except:
                 print(f'no exercises folder present in {section}')
 
-   
+            #find pdfs of exams
+
+
+            f.write(f'<h2> Get exam ready with exam practice </h2>')
+            try:
+                pdf_path = f'{base_path}/{part}/{section}/examqs'
+                # content\part_1\section_1\exercises\T01 Class Ex - Directed Numbers.pdf
+                print(f'pdfs are stored in {pdf_path}')
+                #pp = os.listdir(f'{base_path}/{section}')
+                pp = os.listdir(f'{base_path}/{part}/{section}/examqs')
+                print(pp)
+                for pdf in pp:
+                    print(pdf)
+                    f.write(f'<iframe class="pdf coached" src="./content/{part}/{section}/examqs/{pdf}"  type="application/pdf" allow="fullscreen"></iframe>\n')
+                #for pdf in pdfs:
+                #f.write(f'<embed class="pdf coached" src="{pdf}" type="application/pdf">')
+            except:
+                print(f'no exam folder present in {section}')
 
 #then start walking through the 
 
