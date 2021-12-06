@@ -5,9 +5,13 @@
 
 
 ######################
+#import numpy
 
 
 
+
+import numpy as np
+import pandas as pd
 import os
 base_path = '/Users/Nick/Documents/GitHub/functional-skills/content'
 #course_parts = []
@@ -32,6 +36,23 @@ for part in arr:
             # now lesson page has been established find resource types.
             
             # find videos and load them
+            try:
+                structure = os.listdir(f'{base_path}/{part}/{section}/instruction sections')
+                print(f'found session structure for {part}{section}')
+                lesson = pd.read_csv(structure)
+                for row in lesson[['type','content']]:
+                    if row['type'] == 'heading':
+                        f.write(f'<h2>{row["content"]}</h2>')
+                    elif row['type'] == 'text':
+                        f.write(f'<p>{row["content"]}</p>')
+                    elif row['type']== 'vid':
+                        f.write(f'<iframe src = {row["content"]}></iframe>')
+                    else:
+                        print('content type npt recognised check your planning document for errors')
+            except:
+                print('there appears to be no planning doc for this section')
+
+
              
             # find pdfs of exercises
 
