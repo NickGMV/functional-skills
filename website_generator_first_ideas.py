@@ -5,12 +5,7 @@
 
 
 ######################
-#import numpy
-
-
-
-
-import numpy as np
+import numpy
 import pandas as pd
 import os
 base_path = '/Users/Nick/Documents/GitHub/functional-skills/content'
