@@ -11,15 +11,27 @@ import os
 base_path = '/Users/Nick/Documents/GitHub/functional-skills/content'
 #course_parts = []
 
-# first find all content files
-arr = os.listdir(base_path)
-print(arr)
+# load all parts
+level1 = os.listdir(base_path)
+print(level1)
+
+with open("main_page.html" ,"w") as h:
+    h.write('<!DOCTYPE html>\n<html lang ="en">\n<link href="fs_styles.css" type= "text/css" rel="stylesheet"/>\n<!--comment -->\n\n\n')
+    h.write(f'<head>\n <title>main_page </title>\n</head> \n<body>\n<hr>\n\n')
+    h.write('<div class = "buffer"></div>\n\n')
+    
+    for part in level1:
+        h.write(f'<a href = "./{part}.html"> go to part </a>')
+
+
+
+print(level1)
 # checking this it is locating the entire directory for this repo
 
 
 
 # next to use  pre written file structure to start generating the main page
-for part in arr:
+for part in level1:
     part_name = f'{part}.html'
     sections = os.listdir( f'{base_path}/{part}')
     print(sections)
@@ -27,7 +39,7 @@ for part in arr:
         g.write('<!DOCTYPE html>\n<html lang ="en">\n<link href="fs_styles.css" type= "text/css" rel="stylesheet"/>\n<!--comment -->\n\n\n')
         g.write(f'<head>\n <title>{part} lessons </title>\n</head> \n<body>\n<hr>\n\n')
         g.write('<div class = "buffer"></div>\n\n')
-        g.write(f'<a href = "./{part}.html"> go back a level </a>')
+        g.write(f'<a href = "./main_page.html"> go back a level </a>')
         for section in sections:
             g.write(f'<a href = "./{part}_{section}_lessons.html"> go to lesson page </a>')
 
@@ -40,7 +52,7 @@ for part in arr:
             f.write('<!DOCTYPE html>\n<html lang ="en">\n<link href="fs_styles.css" type= "text/css" rel="stylesheet"/>\n<!--comment -->\n\n\n')
             f.write(f'<head>\n <title>{part}{section} lessons </title>\n</head> \n<body>\n<hr>\n\n')
             f.write('<div class = "buffer"></div>\n\n')
-            f.write(f'<a href = "./{part}"> go back a level </a>')
+            f.write(f'<a href = "./{part}.html"> go back a level </a>')
 
 
             # now lesson page has been established find resource types.
