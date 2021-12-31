@@ -1,6 +1,26 @@
 
 # Recycle file walking system to try and generate functional skills site
 ######################
+def banners(banner1,banner2,webpage):
+    
+        
+    h = open(webpage,'a')
+    f = open(banner1 ,'r')
+    g = open(banner2, 'r')
+        
+    for line in f:
+        print(line)
+        h.write(line)
+    #h.close()
+
+    #h= open(webpage,'w')
+
+    for line in g:
+        h.write(line)
+    
+    h.close()
+    f.close()
+    g.close()
 
 import pandas as pd
 import os
@@ -23,8 +43,9 @@ try:
     #Create the directory
     os.mkdir(path)
 except:
-    go_ahead = input('the content directory has already been converted to a website! \n \
-    if you wish to over write this version enter any key execpt "n"')
+    # re-add input for confirmation after development is finished
+    go_ahead = 'the content directory has already been converted to a website! \n \
+    if you wish to over write this version enter any key execpt "n"'
     if(go_ahead.lower() != 'n'):
         #delete current site design to replace it
         try:
@@ -57,21 +78,22 @@ shutil.copyfile(original, target)
 level1 = os.listdir(base_path)
 print(f' content at the first level is {level1}\n\n\n')
 
-
-with open(f"{parent_directory}/{main_directory}/main_page.html" ,"w") as h:
+main_page_path = f"{parent_directory}/{main_directory}/main_page.html"
+with open(main_page_path ,"w") as h:
     
     # h refers to the main nav page being written by python in this loop
     h.write('<!DOCTYPE html>\n<html lang ="en">\n<link href="./fs_styles.css" type= "text/css" rel="stylesheet"/>\n<!--comment -->\n\n\n')
     h.write(f'<head>\n <title>main_page </title>\n</head> \n<body>\n<hr>\n\n')
     h.write('<div class = "buffer"></div>\n\n')
     
+    
 
     for part in level1:
-        h.write(f'<a href = "./{part}/{part}.html"> go to part </a>')
+        h.write(f'<a href = "./{part}/{part}.html"> go to {part} </a>')
         os.mkdir(f'./{main_directory}/{part}')
         
 
-
+banners('banner1.txt','banner2.txt',main_page_path)
 print(level1)
 # checking this it is locating the entire directory for this repo
 
@@ -89,9 +111,9 @@ for part in level1:
         g.write('<!DOCTYPE html>\n<html lang ="en">\n<link href="../fs_styles.css" type= "text/css" rel="stylesheet"/>\n<!--comment -->\n\n\n')
         g.write(f'<head>\n <title>{part} lessons </title>\n</head> \n<body>\n<hr>\n\n')
         g.write('<div class = "buffer"></div>\n\n')
-        g.write(f'<a href = "../main_page.html"> go back a level </a>')
+        g.write(f'<a href = "../main_page.html"> go back to main page </a>')
         for section in sections:
-            g.write(f'<a href = "./{part}_{section}_lessons.html"> go to lesson page </a>')
+            g.write(f'<a href = "./{part}_{section}_lessons.html"> go to lesson {part} {section} </a>')
 
     #this loop will be refactored but for now it will iterate through the sections and build each lesson page
     for section in sections:
@@ -165,7 +187,7 @@ for part in level1:
                 print(pp)
                 for pdf in pp:
                     print(pdf)
-                    f.write(f'<iframe class="pdf coached" src="./content/{part}/{section}/examqs/{pdf}"  type="application/pdf" allow="fullscreen"></iframe>\n')
+                    f.write(f'<iframe class="pdf coached" src="../../content/{part}/{section}/examqs/{pdf}"  type="application/pdf" allow="fullscreen"></iframe>\n')
                 #for pdf in pdfs:
                 #f.write(f'<embed class="pdf coached" src="{pdf}" type="application/pdf">')
             except:

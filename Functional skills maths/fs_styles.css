@@ -1,6 +1,6 @@
 .buffer{
     height:50vh;
-    background-image: url("./assets/mv topper.png");
+    background-image: url("../assets/mv topper.png");
     background-color: #242456;
     margin-bottom: 2vh;
     margin-top: 2vh;
@@ -8,7 +8,7 @@
 .buffer2{
     height:20vh;
     width:65vw;
-    background-image: url("./assets/Multiverse_Notations_RGB_Navy-08.png");
+    background-image: url("../assets/Multiverse_Notations_RGB_Navy-08.png");
     justify-content: stretch;
     background-size: cover;
     
@@ -38,7 +38,7 @@
     border-radius: calc();
     border-color: cornflowerblue;
 }
-.banner{
+.nav_banner{
   max-height:20vh;
     background-color: #f4f4f4;
     margin-bottom: 2vh;
@@ -199,9 +199,53 @@ border-style: solid;
 
 
 a {
-  font-size: 12vmin;
+  font-size: 8vmin;
+  display: block;
   color:#242456;
-  border-style: solid;
+
   
+
+}
+
+body{
+  font-family:atlas;
+  font-size:25px;
+  text-align:center;
+  background-color:#ddd;
+  max-width:60vw;
+  margin:auto;
+  color:#242456
+}
+
+.banner p {
+  font-size: 3vmin;
+}
+
+.banner a {
+  font-size:3vmin;
+}
+
+.banner1{
+  position:fixed;
+  left:1vw;
+  top:2vh;
+  
+  
+}
+
+.banner2{
+  position:fixed;
+  left:81vw;
+  top:2vh;
+  
+  
+}
+
+.banner{
+  background-color: #bac4c6;
+  border-style: solid;
+  border-color: #242456;
+  width: 15vw;
+  padding: 0.5vmin;
 
 }
