@@ -22,9 +22,28 @@ def banners(banner1,banner2,webpage):
     f.close()
     g.close()
 
+
+def report_issue(x):
+    #send reports to a txt file  in the root directory
+    e = open('error.txt','a')
+    time = datetime.now()
+    e.write(f'reported error at {time}')
+    e.write(f'{x}\n\n')
+
+
+def report_success(x):
+    #send reports to a txt file  in the root directory
+    e = open('success.txt','a')
+    time = datetime.now()
+    e.write(f'process successful at {time}')
+    e.write(f'{x}\n\n')
+
+
+
 import pandas as pd
 import os
 import shutil
+from datetime import datetime
 
 # find the content folders from which to generate the site
 
@@ -63,7 +82,7 @@ except:
 
     else:
         # terminate and produce an error report
-        print('some error ')
+        report_issue('some error with folder creation for website CONSULT with tech team.')
 
 #copy style and js resources so that they can be used by all pages.
 
@@ -76,7 +95,7 @@ shutil.copyfile(original, target)
 
 #find all the sub-parts (content sections/courses) load all parts and generate navigation pages
 level1 = os.listdir(base_path)
-print(f' content at the first level is {level1}\n\n\n')
+report_success(f' content at the first level is {level1}\n\n\n')
 
 main_page_path = f"{parent_directory}/{main_directory}/main_page.html"
 with open(main_page_path ,"w") as h:
@@ -137,17 +156,19 @@ for part in level1:
                 structure = [file for file in structure if file.endswith('csv') ]
                 #print(structure)
                 lesson = pd.read_csv(f'{base_path}/{part}/{section}/instructionsections/{structure[0]}')
+                lesson.dropna()
                 print('pandas worked')
                 for index, row in lesson.iterrows():
-                    print('df loaded')
-                    if row['type'] == 'heading':
+                    #print('df loaded')
+                    if row['type'] == 'heading' and row['content'].lower()!='nan':
+                        print(row['content'])
                         f.write(f'<h2>{row["content"]}</h2>')
 
                     elif row['type'] == 'text':
                         f.write(f'<p>{row["content"]}</p>')
 #<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/de00a87a28864b7784607282e65f40dd" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
                     elif row['type']== 'vid':
-                        f.write(f'<iframe src = {row["content"]} webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>')
+                        f.write(f'<iframe class = "vid" src = {row["content"]} webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>')
 
                     else:
                         print('content type not recognised check your planning document for errors')
@@ -193,7 +214,7 @@ for part in level1:
             except:
                 print(f'no exam folder present in {section}')
 
-#then start walking through the 
+
 
 
 

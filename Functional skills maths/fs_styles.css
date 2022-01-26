@@ -178,6 +178,12 @@ left:5% !important;
 margin-top: 5vh !important;
 /*position:static !important;*/
 }
+
+.vid{
+  width:90%;
+  height: 40vh;
+  
+}
 .exercises{
 width: 33%;
 border-style:solid;
@@ -199,7 +205,7 @@ border-style: solid;
 
 
 a {
-  font-size: 8vmin;
+  font-size: 3vmin;
   display: block;
   color:#242456;
 
