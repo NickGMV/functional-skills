@@ -1,9 +1,14 @@
+p{
+  text-align: left;
+}
+
 .buffer{
     height:50vh;
     background-image: url("../assets/mv topper.png");
     background-color: #242456;
     margin-bottom: 2vh;
     margin-top: 2vh;
+    background-size: cover;
 }
 .buffer2{
     height:20vh;
@@ -180,8 +185,8 @@ margin-top: 5vh !important;
 }
 
 .vid{
-  width:90%;
-  height: 40vh;
+  width:100%;
+  height: 45vh;
   
 }
 .exercises{
@@ -208,6 +213,7 @@ a {
   font-size: 3vmin;
   display: block;
   color:#242456;
+  margin: 2vh;
 
   
 
