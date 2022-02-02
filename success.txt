@@ -1517,3 +1517,382 @@ pdfs were found in ./content/Maths section name here 8/page builder files/pdfs
 process successful at 2022-02-02 10:53:34.923878
 exam pdfs were found in ./content/Maths section name here 8/page builder files/examqs
 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-02-02 16:45:23.036732 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+process successful at 2022-02-02 16:45:23.054448
+ content at the first level is ['Demo part 1', 'Maths section name here 1', 'Maths section name here 2', 'Maths section name here 3', 'Maths section name here 4', 'Maths section name here 5', 'Maths section name here 6', 'Maths section name here 7', 'Maths section name here 8']
+
+
+
+
+process successful at 2022-02-02 16:45:23.055445
+Demo part 1 was found and added to the site build
+
+process successful at 2022-02-02 16:45:23.056655
+Maths section name here 1 was found and added to the site build
+
+process successful at 2022-02-02 16:45:23.057440
+Maths section name here 2 was found and added to the site build
+
+process successful at 2022-02-02 16:45:23.058506
+Maths section name here 3 was found and added to the site build
+
+process successful at 2022-02-02 16:45:23.059435
+Maths section name here 4 was found and added to the site build
+
+process successful at 2022-02-02 16:45:23.060432
+Maths section name here 5 was found and added to the site build
+
+process successful at 2022-02-02 16:45:23.061464
+Maths section name here 6 was found and added to the site build
+
+process successful at 2022-02-02 16:45:23.063068
+Maths section name here 7 was found and added to the site build
+
+process successful at 2022-02-02 16:45:23.063349
+Maths section name here 8 was found and added to the site build
+
+process successful at 2022-02-02 16:45:23.066063
+ sections in Demo part 1 are ['A first look at generated content', 'How quickly can new content be designed and generated'] they will be added to site
+
+process successful at 2022-02-02 16:45:23.068403
+found session structure for Demo part 1A first look at generated content
+
+process successful at 2022-02-02 16:45:23.069504
+planning doc is located at ./content/Demo part 1/A first look at generated content/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.091292
+pdfs were found in ./content/Demo part 1/A first look at generated content/pdfs
+
+process successful at 2022-02-02 16:45:23.093290
+exam pdfs were found in ./content/Demo part 1/A first look at generated content/examqs
+
+process successful at 2022-02-02 16:45:23.096291
+found session structure for Demo part 1How quickly can new content be designed and generated
+
+process successful at 2022-02-02 16:45:23.096291
+planning doc is located at ./content/Demo part 1/How quickly can new content be designed and generated/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.110278
+pdfs were found in ./content/Demo part 1/How quickly can new content be designed and generated/pdfs
+
+process successful at 2022-02-02 16:45:23.110673
+exam pdfs were found in ./content/Demo part 1/How quickly can new content be designed and generated/examqs
+
+process successful at 2022-02-02 16:45:23.112264
+ sections in Maths section name here 1 are ['topic 1', 'topic 2', 'topic 3'] they will be added to site
+
+process successful at 2022-02-02 16:45:23.118223
+found session structure for Maths section name here 1topic 1
+
+process successful at 2022-02-02 16:45:23.119220
+planning doc is located at ./content/Maths section name here 1/topic 1/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.131188
+pdfs were found in ./content/Maths section name here 1/topic 1/pdfs
+
+process successful at 2022-02-02 16:45:23.132188
+exam pdfs were found in ./content/Maths section name here 1/topic 1/examqs
+
+process successful at 2022-02-02 16:45:23.135180
+found session structure for Maths section name here 1topic 2
+
+process successful at 2022-02-02 16:45:23.137173
+planning doc is located at ./content/Maths section name here 1/topic 2/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.148299
+pdfs were found in ./content/Maths section name here 1/topic 2/pdfs
+
+process successful at 2022-02-02 16:45:23.150521
+exam pdfs were found in ./content/Maths section name here 1/topic 2/examqs
+
+process successful at 2022-02-02 16:45:23.152519
+found session structure for Maths section name here 1topic 3
+
+process successful at 2022-02-02 16:45:23.153516
+planning doc is located at ./content/Maths section name here 1/topic 3/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.164994
+pdfs were found in ./content/Maths section name here 1/topic 3/pdfs
+
+process successful at 2022-02-02 16:45:23.166482
+exam pdfs were found in ./content/Maths section name here 1/topic 3/examqs
+
+process successful at 2022-02-02 16:45:23.167481
+ sections in Maths section name here 2 are ['topic 1', 'topic 2', 'topic 3'] they will be added to site
+
+process successful at 2022-02-02 16:45:23.170471
+found session structure for Maths section name here 2topic 1
+
+process successful at 2022-02-02 16:45:23.171504
+planning doc is located at ./content/Maths section name here 2/topic 1/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.182438
+pdfs were found in ./content/Maths section name here 2/topic 1/pdfs
+
+process successful at 2022-02-02 16:45:23.183655
+exam pdfs were found in ./content/Maths section name here 2/topic 1/examqs
+
+process successful at 2022-02-02 16:45:23.185613
+found session structure for Maths section name here 2topic 2
+
+process successful at 2022-02-02 16:45:23.186461
+planning doc is located at ./content/Maths section name here 2/topic 2/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.196992
+pdfs were found in ./content/Maths section name here 2/topic 2/pdfs
+
+process successful at 2022-02-02 16:45:23.197552
+exam pdfs were found in ./content/Maths section name here 2/topic 2/examqs
+
+process successful at 2022-02-02 16:45:23.198989
+found session structure for Maths section name here 2topic 3
+
+process successful at 2022-02-02 16:45:23.200020
+planning doc is located at ./content/Maths section name here 2/topic 3/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.211438
+pdfs were found in ./content/Maths section name here 2/topic 3/pdfs
+
+process successful at 2022-02-02 16:45:23.211838
+exam pdfs were found in ./content/Maths section name here 2/topic 3/examqs
+
+process successful at 2022-02-02 16:45:23.213434
+ sections in Maths section name here 3 are ['topic 1', 'topic 2', 'topic 3'] they will be added to site
+
+process successful at 2022-02-02 16:45:23.216679
+found session structure for Maths section name here 3topic 1
+
+process successful at 2022-02-02 16:45:23.217002
+planning doc is located at ./content/Maths section name here 3/topic 1/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.227684
+pdfs were found in ./content/Maths section name here 3/topic 1/pdfs
+
+process successful at 2022-02-02 16:45:23.228865
+exam pdfs were found in ./content/Maths section name here 3/topic 1/examqs
+
+process successful at 2022-02-02 16:45:23.230695
+found session structure for Maths section name here 3topic 2
+
+process successful at 2022-02-02 16:45:23.231796
+planning doc is located at ./content/Maths section name here 3/topic 2/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.242948
+pdfs were found in ./content/Maths section name here 3/topic 2/pdfs
+
+process successful at 2022-02-02 16:45:23.244179
+exam pdfs were found in ./content/Maths section name here 3/topic 2/examqs
+
+process successful at 2022-02-02 16:45:23.246214
+found session structure for Maths section name here 3topic 3
+
+process successful at 2022-02-02 16:45:23.246931
+planning doc is located at ./content/Maths section name here 3/topic 3/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.258345
+pdfs were found in ./content/Maths section name here 3/topic 3/pdfs
+
+process successful at 2022-02-02 16:45:23.259627
+exam pdfs were found in ./content/Maths section name here 3/topic 3/examqs
+
+process successful at 2022-02-02 16:45:23.260357
+ sections in Maths section name here 4 are ['topic 1', 'topic 2', 'topic 3'] they will be added to site
+
+process successful at 2022-02-02 16:45:23.263307
+found session structure for Maths section name here 4topic 1
+
+process successful at 2022-02-02 16:45:23.264932
+planning doc is located at ./content/Maths section name here 4/topic 1/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.276224
+pdfs were found in ./content/Maths section name here 4/topic 1/pdfs
+
+process successful at 2022-02-02 16:45:23.277261
+exam pdfs were found in ./content/Maths section name here 4/topic 1/examqs
+
+process successful at 2022-02-02 16:45:23.279251
+found session structure for Maths section name here 4topic 2
+
+process successful at 2022-02-02 16:45:23.279730
+planning doc is located at ./content/Maths section name here 4/topic 2/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.283240
+pdfs were found in ./content/Maths section name here 4/topic 2/pdfs
+
+process successful at 2022-02-02 16:45:23.292471
+exam pdfs were found in ./content/Maths section name here 4/topic 2/examqs
+
+process successful at 2022-02-02 16:45:23.294524
+found session structure for Maths section name here 4topic 3
+
+process successful at 2022-02-02 16:45:23.295533
+planning doc is located at ./content/Maths section name here 4/topic 3/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.307703
+pdfs were found in ./content/Maths section name here 4/topic 3/pdfs
+
+process successful at 2022-02-02 16:45:23.308702
+exam pdfs were found in ./content/Maths section name here 4/topic 3/examqs
+
+process successful at 2022-02-02 16:45:23.309701
+ sections in Maths section name here 5 are ['topic 1', 'topic 2', 'topic 3'] they will be added to site
+
+process successful at 2022-02-02 16:45:23.312727
+found session structure for Maths section name here 5topic 1
+
+process successful at 2022-02-02 16:45:23.313137
+planning doc is located at ./content/Maths section name here 5/topic 1/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.323697
+pdfs were found in ./content/Maths section name here 5/topic 1/pdfs
+
+process successful at 2022-02-02 16:45:23.324950
+exam pdfs were found in ./content/Maths section name here 5/topic 1/examqs
+
+process successful at 2022-02-02 16:45:23.326668
+found session structure for Maths section name here 5topic 2
+
+process successful at 2022-02-02 16:45:23.327653
+planning doc is located at ./content/Maths section name here 5/topic 2/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.333780
+pdfs were found in ./content/Maths section name here 5/topic 2/pdfs
+
+process successful at 2022-02-02 16:45:23.339747
+exam pdfs were found in ./content/Maths section name here 5/topic 2/examqs
+
+process successful at 2022-02-02 16:45:23.341932
+found session structure for Maths section name here 5topic 3
+
+process successful at 2022-02-02 16:45:23.341932
+planning doc is located at ./content/Maths section name here 5/topic 3/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.353416
+pdfs were found in ./content/Maths section name here 5/topic 3/pdfs
+
+process successful at 2022-02-02 16:45:23.354383
+exam pdfs were found in ./content/Maths section name here 5/topic 3/examqs
+
+process successful at 2022-02-02 16:45:23.355439
+ sections in Maths section name here 6 are ['topic 1', 'topic 2', 'topic 3'] they will be added to site
+
+process successful at 2022-02-02 16:45:23.359410
+found session structure for Maths section name here 6topic 1
+
+process successful at 2022-02-02 16:45:23.360369
+planning doc is located at ./content/Maths section name here 6/topic 1/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.371369
+pdfs were found in ./content/Maths section name here 6/topic 1/pdfs
+
+process successful at 2022-02-02 16:45:23.372335
+exam pdfs were found in ./content/Maths section name here 6/topic 1/examqs
+
+process successful at 2022-02-02 16:45:23.374361
+found session structure for Maths section name here 6topic 2
+
+process successful at 2022-02-02 16:45:23.375362
+planning doc is located at ./content/Maths section name here 6/topic 2/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.386316
+pdfs were found in ./content/Maths section name here 6/topic 2/pdfs
+
+process successful at 2022-02-02 16:45:23.387282
+exam pdfs were found in ./content/Maths section name here 6/topic 2/examqs
+
+process successful at 2022-02-02 16:45:23.389276
+found session structure for Maths section name here 6topic 3
+
+process successful at 2022-02-02 16:45:23.390273
+planning doc is located at ./content/Maths section name here 6/topic 3/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.401244
+pdfs were found in ./content/Maths section name here 6/topic 3/pdfs
+
+process successful at 2022-02-02 16:45:23.402241
+exam pdfs were found in ./content/Maths section name here 6/topic 3/examqs
+
+process successful at 2022-02-02 16:45:23.403269
+ sections in Maths section name here 7 are ['topic 1', 'topic 2', 'topic 3'] they will be added to site
+
+process successful at 2022-02-02 16:45:23.406231
+found session structure for Maths section name here 7topic 1
+
+process successful at 2022-02-02 16:45:23.407495
+planning doc is located at ./content/Maths section name here 7/topic 1/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.416237
+pdfs were found in ./content/Maths section name here 7/topic 1/pdfs
+
+process successful at 2022-02-02 16:45:23.416237
+exam pdfs were found in ./content/Maths section name here 7/topic 1/examqs
+
+process successful at 2022-02-02 16:45:23.421919
+found session structure for Maths section name here 7topic 2
+
+process successful at 2022-02-02 16:45:23.422811
+planning doc is located at ./content/Maths section name here 7/topic 2/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.427124
+pdfs were found in ./content/Maths section name here 7/topic 2/pdfs
+
+process successful at 2022-02-02 16:45:23.435788
+exam pdfs were found in ./content/Maths section name here 7/topic 2/examqs
+
+process successful at 2022-02-02 16:45:23.438221
+found session structure for Maths section name here 7topic 3
+
+process successful at 2022-02-02 16:45:23.439325
+planning doc is located at ./content/Maths section name here 7/topic 3/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.443442
+pdfs were found in ./content/Maths section name here 7/topic 3/pdfs
+
+process successful at 2022-02-02 16:45:23.451063
+exam pdfs were found in ./content/Maths section name here 7/topic 3/examqs
+
+process successful at 2022-02-02 16:45:23.452059
+ sections in Maths section name here 8 are ['topic 1', 'topic 2', 'topic 3'] they will be added to site
+
+process successful at 2022-02-02 16:45:23.455275
+found session structure for Maths section name here 8topic 1
+
+process successful at 2022-02-02 16:45:23.456422
+planning doc is located at ./content/Maths section name here 8/topic 1/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.460536
+pdfs were found in ./content/Maths section name here 8/topic 1/pdfs
+
+process successful at 2022-02-02 16:45:23.467956
+exam pdfs were found in ./content/Maths section name here 8/topic 1/examqs
+
+process successful at 2022-02-02 16:45:23.469953
+found session structure for Maths section name here 8topic 2
+
+process successful at 2022-02-02 16:45:23.471183
+planning doc is located at ./content/Maths section name here 8/topic 2/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.475963
+pdfs were found in ./content/Maths section name here 8/topic 2/pdfs
+
+process successful at 2022-02-02 16:45:23.482769
+exam pdfs were found in ./content/Maths section name here 8/topic 2/examqs
+
+process successful at 2022-02-02 16:45:23.484764
+found session structure for Maths section name here 8topic 3
+
+process successful at 2022-02-02 16:45:23.485981
+planning doc is located at ./content/Maths section name here 8/topic 3/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 16:45:23.490160
+pdfs were found in ./content/Maths section name here 8/topic 3/pdfs
+
+process successful at 2022-02-02 16:45:23.497700
+exam pdfs were found in ./content/Maths section name here 8/topic 3/examqs
+
