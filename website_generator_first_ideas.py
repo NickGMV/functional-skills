@@ -226,17 +226,19 @@ for part in level1:
             #find pdfs of exams
 
 
-            f.write(f'<h2> Get exam ready with exam practice </h2>')
+            #f.write(f'<h2> Get exam ready with exam practice </h2>')
             try:
                 pdf_path = f'{base_path}/{part}/{section}/examqs'
                 # content\part_1\section_1\exercises\T01 Class Ex - Directed Numbers.pdf
                 report_success(f'exam pdfs were found in {pdf_path}')
                 #pp = os.listdir(f'{base_path}/{section}')
                 pp = os.listdir(f'{base_path}/{part}/{section}/examqs')
-                #print(pp)
-                for pdf in pp:
-                    #print(pdf)
-                    f.write(f'<iframe class="pdf coached" src="../../content/{part}/{section}/examqs/{pdf}"  type="application/pdf" allow="fullscreen"></iframe>\n')
+                if pp:
+                    f.write(f'<h2> Get exam ready with exam practice </h2>')
+                    #print(pp)
+                    for pdf in pp:
+                        #print(pdf)
+                        f.write(f'<iframe class="pdf coached" src="../../content/{part}/{section}/examqs/{pdf}"  type="application/pdf" allow="fullscreen"></iframe>\n')
                 #for pdf in pdfs:
                 #f.write(f'<embed class="pdf coached" src="{pdf}" type="application/pdf">')
             except:

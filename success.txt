@@ -1143,3 +1143,377 @@ pdfs were found in ./content/Maths section name here 8/page builder files/pdfs
 process successful at 2022-02-02 09:33:21.268897
 exam pdfs were found in ./content/Maths section name here 8/page builder files/examqs
 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-02-02 10:52:10.647577 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+process successful at 2022-02-02 10:52:10.660633
+ content at the first level is ['Demo part 1', 'Maths section name here 1', 'Maths section name here 2', 'Maths section name here 3', 'Maths section name here 4', 'Maths section name here 5', 'Maths section name here 6', 'Maths section name here 7', 'Maths section name here 8']
+
+
+
+
+process successful at 2022-02-02 10:52:10.662734
+Demo part 1 was found and added to the site build
+
+process successful at 2022-02-02 10:52:10.664262
+Maths section name here 1 was found and added to the site build
+
+process successful at 2022-02-02 10:52:10.665282
+Maths section name here 2 was found and added to the site build
+
+process successful at 2022-02-02 10:52:10.666294
+Maths section name here 3 was found and added to the site build
+
+process successful at 2022-02-02 10:52:10.667258
+Maths section name here 4 was found and added to the site build
+
+process successful at 2022-02-02 10:52:10.668255
+Maths section name here 5 was found and added to the site build
+
+process successful at 2022-02-02 10:52:10.669252
+Maths section name here 6 was found and added to the site build
+
+process successful at 2022-02-02 10:52:10.670249
+Maths section name here 7 was found and added to the site build
+
+process successful at 2022-02-02 10:52:10.671247
+Maths section name here 8 was found and added to the site build
+
+process successful at 2022-02-02 10:52:10.674046
+ sections in Demo part 1 are ['A first look at generated content', 'How quickly can new content be designed and generated'] they will be added to site
+
+process successful at 2022-02-02 10:52:10.676034
+found session structure for Demo part 1A first look at generated content
+
+process successful at 2022-02-02 10:52:10.676034
+planning doc is located at ./content/Demo part 1/A first look at generated content/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:52:10.701653
+pdfs were found in ./content/Demo part 1/A first look at generated content/pdfs
+
+process successful at 2022-02-02 10:52:10.706186
+exam pdfs were found in ./content/Demo part 1/A first look at generated content/examqs
+
+process successful at 2022-02-02 10:52:10.709178
+found session structure for Demo part 1How quickly can new content be designed and generated
+
+process successful at 2022-02-02 10:52:10.710175
+planning doc is located at ./content/Demo part 1/How quickly can new content be designed and generated/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:52:10.723141
+pdfs were found in ./content/Demo part 1/How quickly can new content be designed and generated/pdfs
+
+process successful at 2022-02-02 10:52:10.724285
+exam pdfs were found in ./content/Demo part 1/How quickly can new content be designed and generated/examqs
+
+process successful at 2022-02-02 10:52:10.727138
+ sections in Maths section name here 1 are ['page builder files'] they will be added to site
+
+process successful at 2022-02-02 10:52:10.730123
+found session structure for Maths section name here 1page builder files
+
+process successful at 2022-02-02 10:52:10.731459
+planning doc is located at ./content/Maths section name here 1/page builder files/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:52:10.743496
+pdfs were found in ./content/Maths section name here 1/page builder files/pdfs
+
+process successful at 2022-02-02 10:52:10.744271
+exam pdfs were found in ./content/Maths section name here 1/page builder files/examqs
+
+process successful at 2022-02-02 10:52:10.745235
+ sections in Maths section name here 2 are ['page builder files'] they will be added to site
+
+process successful at 2022-02-02 10:52:10.748226
+found session structure for Maths section name here 2page builder files
+
+process successful at 2022-02-02 10:52:10.750222
+planning doc is located at ./content/Maths section name here 2/page builder files/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:52:10.762189
+pdfs were found in ./content/Maths section name here 2/page builder files/pdfs
+
+process successful at 2022-02-02 10:52:10.763186
+exam pdfs were found in ./content/Maths section name here 2/page builder files/examqs
+
+process successful at 2022-02-02 10:52:10.765182
+ sections in Maths section name here 3 are ['page builder files'] they will be added to site
+
+process successful at 2022-02-02 10:52:10.768173
+found session structure for Maths section name here 3page builder files
+
+process successful at 2022-02-02 10:52:10.769204
+planning doc is located at ./content/Maths section name here 3/page builder files/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:52:10.781077
+pdfs were found in ./content/Maths section name here 3/page builder files/pdfs
+
+process successful at 2022-02-02 10:52:10.781701
+exam pdfs were found in ./content/Maths section name here 3/page builder files/examqs
+
+process successful at 2022-02-02 10:52:10.783106
+ sections in Maths section name here 4 are ['page builder files'] they will be added to site
+
+process successful at 2022-02-02 10:52:10.785069
+found session structure for Maths section name here 4page builder files
+
+process successful at 2022-02-02 10:52:10.786267
+planning doc is located at ./content/Maths section name here 4/page builder files/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:52:10.797782
+pdfs were found in ./content/Maths section name here 4/page builder files/pdfs
+
+process successful at 2022-02-02 10:52:10.798392
+exam pdfs were found in ./content/Maths section name here 4/page builder files/examqs
+
+process successful at 2022-02-02 10:52:10.799780
+ sections in Maths section name here 5 are ['page builder files'] they will be added to site
+
+process successful at 2022-02-02 10:52:10.801774
+found session structure for Maths section name here 5page builder files
+
+process successful at 2022-02-02 10:52:10.803065
+planning doc is located at ./content/Maths section name here 5/page builder files/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:52:10.809911
+pdfs were found in ./content/Maths section name here 5/page builder files/pdfs
+
+process successful at 2022-02-02 10:52:10.814754
+exam pdfs were found in ./content/Maths section name here 5/page builder files/examqs
+
+process successful at 2022-02-02 10:52:10.815751
+ sections in Maths section name here 6 are ['page builder files'] they will be added to site
+
+process successful at 2022-02-02 10:52:10.817757
+found session structure for Maths section name here 6page builder files
+
+process successful at 2022-02-02 10:52:10.818871
+planning doc is located at ./content/Maths section name here 6/page builder files/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:52:10.821476
+pdfs were found in ./content/Maths section name here 6/page builder files/pdfs
+
+process successful at 2022-02-02 10:52:10.830974
+exam pdfs were found in ./content/Maths section name here 6/page builder files/examqs
+
+process successful at 2022-02-02 10:52:10.832255
+ sections in Maths section name here 7 are ['page builder files'] they will be added to site
+
+process successful at 2022-02-02 10:52:10.835347
+found session structure for Maths section name here 7page builder files
+
+process successful at 2022-02-02 10:52:10.836344
+planning doc is located at ./content/Maths section name here 7/page builder files/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:52:10.839430
+pdfs were found in ./content/Maths section name here 7/page builder files/pdfs
+
+process successful at 2022-02-02 10:52:10.847565
+exam pdfs were found in ./content/Maths section name here 7/page builder files/examqs
+
+process successful at 2022-02-02 10:52:10.848562
+ sections in Maths section name here 8 are ['page builder files'] they will be added to site
+
+process successful at 2022-02-02 10:52:10.851554
+found session structure for Maths section name here 8page builder files
+
+process successful at 2022-02-02 10:52:10.851554
+planning doc is located at ./content/Maths section name here 8/page builder files/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:52:10.855433
+pdfs were found in ./content/Maths section name here 8/page builder files/pdfs
+
+process successful at 2022-02-02 10:52:10.862915
+exam pdfs were found in ./content/Maths section name here 8/page builder files/examqs
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-02-02 10:53:34.721362 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+process successful at 2022-02-02 10:53:34.733460
+ content at the first level is ['Demo part 1', 'Maths section name here 1', 'Maths section name here 2', 'Maths section name here 3', 'Maths section name here 4', 'Maths section name here 5', 'Maths section name here 6', 'Maths section name here 7', 'Maths section name here 8']
+
+
+
+
+process successful at 2022-02-02 10:53:34.735624
+Demo part 1 was found and added to the site build
+
+process successful at 2022-02-02 10:53:34.736621
+Maths section name here 1 was found and added to the site build
+
+process successful at 2022-02-02 10:53:34.736882
+Maths section name here 2 was found and added to the site build
+
+process successful at 2022-02-02 10:53:34.738061
+Maths section name here 3 was found and added to the site build
+
+process successful at 2022-02-02 10:53:34.739236
+Maths section name here 4 was found and added to the site build
+
+process successful at 2022-02-02 10:53:34.740250
+Maths section name here 5 was found and added to the site build
+
+process successful at 2022-02-02 10:53:34.741477
+Maths section name here 6 was found and added to the site build
+
+process successful at 2022-02-02 10:53:34.742475
+Maths section name here 7 was found and added to the site build
+
+process successful at 2022-02-02 10:53:34.743473
+Maths section name here 8 was found and added to the site build
+
+process successful at 2022-02-02 10:53:34.746152
+ sections in Demo part 1 are ['A first look at generated content', 'How quickly can new content be designed and generated'] they will be added to site
+
+process successful at 2022-02-02 10:53:34.748454
+found session structure for Demo part 1A first look at generated content
+
+process successful at 2022-02-02 10:53:34.749587
+planning doc is located at ./content/Demo part 1/A first look at generated content/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:53:34.759019
+pdfs were found in ./content/Demo part 1/A first look at generated content/pdfs
+
+process successful at 2022-02-02 10:53:34.765498
+exam pdfs were found in ./content/Demo part 1/A first look at generated content/examqs
+
+process successful at 2022-02-02 10:53:34.768820
+found session structure for Demo part 1How quickly can new content be designed and generated
+
+process successful at 2022-02-02 10:53:34.769474
+planning doc is located at ./content/Demo part 1/How quickly can new content be designed and generated/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:53:34.778556
+pdfs were found in ./content/Demo part 1/How quickly can new content be designed and generated/pdfs
+
+process successful at 2022-02-02 10:53:34.784226
+exam pdfs were found in ./content/Demo part 1/How quickly can new content be designed and generated/examqs
+
+process successful at 2022-02-02 10:53:34.785224
+ sections in Maths section name here 1 are ['page builder files'] they will be added to site
+
+process successful at 2022-02-02 10:53:34.788214
+found session structure for Maths section name here 1page builder files
+
+process successful at 2022-02-02 10:53:34.789195
+planning doc is located at ./content/Maths section name here 1/page builder files/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:53:34.802159
+pdfs were found in ./content/Maths section name here 1/page builder files/pdfs
+
+process successful at 2022-02-02 10:53:34.802557
+exam pdfs were found in ./content/Maths section name here 1/page builder files/examqs
+
+process successful at 2022-02-02 10:53:34.803158
+ sections in Maths section name here 2 are ['page builder files'] they will be added to site
+
+process successful at 2022-02-02 10:53:34.806151
+found session structure for Maths section name here 2page builder files
+
+process successful at 2022-02-02 10:53:34.808145
+planning doc is located at ./content/Maths section name here 2/page builder files/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:53:34.819115
+pdfs were found in ./content/Maths section name here 2/page builder files/pdfs
+
+process successful at 2022-02-02 10:53:34.820154
+exam pdfs were found in ./content/Maths section name here 2/page builder files/examqs
+
+process successful at 2022-02-02 10:53:34.821111
+ sections in Maths section name here 3 are ['page builder files'] they will be added to site
+
+process successful at 2022-02-02 10:53:34.824105
+found session structure for Maths section name here 3page builder files
+
+process successful at 2022-02-02 10:53:34.825248
+planning doc is located at ./content/Maths section name here 3/page builder files/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:53:34.843057
+pdfs were found in ./content/Maths section name here 3/page builder files/pdfs
+
+process successful at 2022-02-02 10:53:34.844050
+exam pdfs were found in ./content/Maths section name here 3/page builder files/examqs
+
+process successful at 2022-02-02 10:53:34.846077
+ sections in Maths section name here 4 are ['page builder files'] they will be added to site
+
+process successful at 2022-02-02 10:53:34.850034
+found session structure for Maths section name here 4page builder files
+
+process successful at 2022-02-02 10:53:34.851033
+planning doc is located at ./content/Maths section name here 4/page builder files/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:53:34.859054
+pdfs were found in ./content/Maths section name here 4/page builder files/pdfs
+
+process successful at 2022-02-02 10:53:34.859054
+exam pdfs were found in ./content/Maths section name here 4/page builder files/examqs
+
+process successful at 2022-02-02 10:53:34.863452
+ sections in Maths section name here 5 are ['page builder files'] they will be added to site
+
+process successful at 2022-02-02 10:53:34.866592
+found session structure for Maths section name here 5page builder files
+
+process successful at 2022-02-02 10:53:34.866592
+planning doc is located at ./content/Maths section name here 5/page builder files/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:53:34.868659
+pdfs were found in ./content/Maths section name here 5/page builder files/pdfs
+
+process successful at 2022-02-02 10:53:34.878038
+exam pdfs were found in ./content/Maths section name here 5/page builder files/examqs
+
+process successful at 2022-02-02 10:53:34.879035
+ sections in Maths section name here 6 are ['page builder files'] they will be added to site
+
+process successful at 2022-02-02 10:53:34.881165
+found session structure for Maths section name here 6page builder files
+
+process successful at 2022-02-02 10:53:34.882334
+planning doc is located at ./content/Maths section name here 6/page builder files/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:53:34.884329
+pdfs were found in ./content/Maths section name here 6/page builder files/pdfs
+
+process successful at 2022-02-02 10:53:34.893063
+exam pdfs were found in ./content/Maths section name here 6/page builder files/examqs
+
+process successful at 2022-02-02 10:53:34.894059
+ sections in Maths section name here 7 are ['page builder files'] they will be added to site
+
+process successful at 2022-02-02 10:53:34.897694
+found session structure for Maths section name here 7page builder files
+
+process successful at 2022-02-02 10:53:34.897694
+planning doc is located at ./content/Maths section name here 7/page builder files/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:53:34.901503
+pdfs were found in ./content/Maths section name here 7/page builder files/pdfs
+
+process successful at 2022-02-02 10:53:34.909189
+exam pdfs were found in ./content/Maths section name here 7/page builder files/examqs
+
+process successful at 2022-02-02 10:53:34.910186
+ sections in Maths section name here 8 are ['page builder files'] they will be added to site
+
+process successful at 2022-02-02 10:53:34.912282
+found session structure for Maths section name here 8page builder files
+
+process successful at 2022-02-02 10:53:34.913408
+planning doc is located at ./content/Maths section name here 8/page builder files/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-02 10:53:34.916573
+pdfs were found in ./content/Maths section name here 8/page builder files/pdfs
+
+process successful at 2022-02-02 10:53:34.923878
+exam pdfs were found in ./content/Maths section name here 8/page builder files/examqs
+
