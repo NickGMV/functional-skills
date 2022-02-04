@@ -11,25 +11,20 @@ p{
     background-size: cover;
 }
 .buffer2{
-    height:20vh;
-    width:65vw;
-    background-image: url("../assets/Multiverse_Notations_RGB_Navy-08.png");
-    justify-content: stretch;
-    background-size: cover;
-    
-    margin-bottom: 2vh;
-    margin-top: 2vh;
+  height:50vh;
+  background-image: url("../assets/mv topper.png");
+  background-color: #242456;
+  margin-bottom: 2vh;
+  margin-top: 2vh;
+  background-size: cover;
 }
-
 .buffer3{
-    height:30vh;
-    width:90%;
-    background-image: url("./assets/Multiverse_Logo_RGB_Indigo-02.png");
-    background-size: contain;
-    background-repeat: no-repeat;
-    margin:auto;
-    margin-bottom: 2vh;
-    margin-top: 2vh;
+  height:50vh;
+  background-image: url("../assets/mv topper.png");
+  background-color: #242456;
+  margin-bottom: 2vh;
+  margin-top: 2vh;
+  background-size: cover;
 }
 
 .pdf{ width:32%;
@@ -223,7 +218,7 @@ body{
   font-family:atlas;
   font-size:25px;
   text-align:center;
-  background-color:#ddd;
+  background-color:white;
   max-width:60vw;
   margin:auto;
   color:#242456
@@ -254,7 +249,7 @@ body{
 }
 
 .banner{
-  background-color: #bac4c6;
+  background-color: whitesmoke;
   border-style: solid;
   border-color: #242456;
   width: 15vw;
