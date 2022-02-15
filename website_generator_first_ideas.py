@@ -130,7 +130,7 @@ with open(main_page_path ,"w") as h:
     
 
     for part in level1:
-        h.write(f'<a href = "./{part}/{part}.html"> go to {part} </a>')
+        h.write(f'<div class = "navbox"><a href = "./{part}/{part}.html"> {part} </a></div>')
         os.mkdir(f'./{main_directory}/{part}')
         report_success(f'{part} was found and added to the site build')
 
@@ -154,7 +154,7 @@ for part in level1:
         g.write('<div class = "buffer"></div>\n\n')
         g.write(f'<a href = "../main_page.html"> go back to main page </a>')
         for section in sections:
-            g.write(f'<a href = "./{part}_{section}_lessons.html"> go to lesson {part} {section} </a>')
+            g.write(f'<div class = "navbox"><a href = "./{part}_{section}_lessons.html"> go to lesson {part} {section} </a></div>')
 
     #this loop will be refactored but for now it will iterate through the sections and build each lesson page
     for section in sections:

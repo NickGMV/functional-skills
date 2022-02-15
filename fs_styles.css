@@ -56,152 +56,6 @@ p{
 
 }
 
-#main_tracker{
-  background-color: #ccc;
-  border-style: ridge;
-}
-
-.table{
-  border: 1px solid black;
-  max-width:80vw;
-  font-size: 1rem;
-
-      }
-
-.table tr {
-  border: 1px solid black;
-  padding:3px;
-}
-
-.table td {
-  border: 1px solid black;
-  padding:5px;
-}
-
-.tick_area{
-  width:10vw;
-}
-
-.mod_desc{
-  font-size:0.8rem;
-}
-
-.table tr:hover {background-color: #ddd;}
-
-/* Customize the label (the container) */
-.container {
-display: block;
-position: relative;
-padding-left: 35px;
-margin-bottom: 12px;
-cursor: pointer;
-font-size: 22px;
--webkit-user-select: none;
--moz-user-select: none;
--ms-user-select: none;
-user-select: none;
-}
-
-/* Hide the browser's default checkbox */
-.container input {
-position: absolute;
-opacity: 0;
-cursor: pointer;
-height: 0;
-width: 0;
-}
-
-/* Create a custom checkbox */
-.checkmark {
-position: absolute;
-top: -0.5vh;
-left: 4vw;
-height: 25px;
-width: 25px;
-background-color: #bcc7f3;
-}
-
-/* On mouse-over, add a grey background color */
-.container:hover input ~ .checkmark {
-background-color: #ccc;
-}
-
-/* When the checkbox is checked, add a blue background */
-.container input:checked ~ .checkmark {
-background-color: #242456;
-}
-
-/* Create the checkmark/indicator (hidden when not checked) */
-.checkmark:after {
-content: "";
-position: absolute;
-display: none;
-}
-
-/* Show the checkmark when checked */
-.container input:checked ~ .checkmark:after {
-display: block;
-}
-
-/* Style the checkmark/indicator */
-.container .checkmark:after {
-left: 9px;
-top: 5px;
-width: 5px;
-height: 10px;
-border: solid white;
-border-width: 0 3px 3px 0;
--webkit-transform: rotate(45deg);
--ms-transform: rotate(45deg);
-transform: rotate(45deg);
-}
-
-progress{
-display:block;
-width:17vw;
-
-}
-
-#progress_bars{
-position:fixed;
-left:1vw;
-top:1vh;
-width:18vw;
-height:auto;
-border-style: solid;
-background-color: #bac4c6;
-}
-
-iframe[style]{
-width:90% !important;
-left:5% !important;
-margin-top: 5vh !important;
-/*position:static !important;*/
-}
-
-.vid{
-  width:100%;
-  height: 45vh;
-  
-}
-.exercises{
-width: 33%;
-border-style:solid;
-margin:auto;
-}
-.exercises td{
-width: 33%;
-border-style: solid;
-}
-.nav{
-position:fixed;
-left: 1vw;
-top:1vh;
-width: 10vw;
-height:auto;
-padding:2vw;
-border-style: solid;
-}
 
 
 a {
@@ -255,4 +109,44 @@ body{
   width: 15vw;
   padding: 0.5vmin;
 
+}
+.navbox{
+width:60vw;
+height: 15vh;
+background-color: whitesmoke;
+display:inline-block;
+border-radius: 8vmin;
+border-style: solid;
+cursor:pointer;
+text-align: center;
+line-height:8vh;
+
+top:0px;
+transition: all 0.5s;
+-webkit-transition: all 0.2s;
+-ms-transition: all 0.2s;
+-moz-transition: all 0.2s;
+-o-transition: all 0.2s;
+margin-top: 2vh;
+
+}
+.navbox a {
+  color:black;
+}
+
+
+.navbox:hover{
+  background:#242456 ;
+  text-align: center;
+  border-color:black;
+}
+
+.navbox a:hover {
+  color:white;
+}
+.navbox:active{
+  box-shadow: 0px 0px;
+  -moz-box-shadow: 0px 0px;
+  -webkit-box-shadow: 0px 0px;
+  top: 4px;
 }
