@@ -6463,3 +6463,352 @@ pdfs were found in ./content/Session 8 - Averages and Data/topic 3/pdfs
 process successful at 2022-02-15 15:28:36.815452
 exam pdfs were found in ./content/Session 8 - Averages and Data/topic 3/examqs
 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-02-15 16:37:22.103354 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+process successful at 2022-02-15 16:37:22.123332
+ content at the first level is ['Session 1 - Number Theory', 'Session 2 - Non Calculator Methods', 'Session 3 - Shape and Space (1)', 'Session 4 - Shape and Space (2)', 'Session 5 - Ratio and Proportion', 'Session 6 - FDP', 'Session 7 - Percentages', 'Session 8 - Averages and Data']
+
+
+
+
+process successful at 2022-02-15 16:37:22.125299
+Session 1 - Number Theory was found and added to the site build
+
+process successful at 2022-02-15 16:37:22.126304
+Session 2 - Non Calculator Methods was found and added to the site build
+
+process successful at 2022-02-15 16:37:22.128289
+Session 3 - Shape and Space (1) was found and added to the site build
+
+process successful at 2022-02-15 16:37:22.129286
+Session 4 - Shape and Space (2) was found and added to the site build
+
+process successful at 2022-02-15 16:37:22.130285
+Session 5 - Ratio and Proportion was found and added to the site build
+
+process successful at 2022-02-15 16:37:22.131294
+Session 6 - FDP was found and added to the site build
+
+process successful at 2022-02-15 16:37:22.132278
+Session 7 - Percentages was found and added to the site build
+
+process successful at 2022-02-15 16:37:22.133276
+Session 8 - Averages and Data was found and added to the site build
+
+process successful at 2022-02-15 16:37:22.136268
+ sections in Session 1 - Number Theory are ['topic 1', 'topic 2', 'topic 3'] they will be added to site
+
+process successful at 2022-02-15 16:37:22.139293
+found session structure for Session 1 - Number Theorytopic 1
+
+process successful at 2022-02-15 16:37:22.139293
+planning doc is located at ./content/Session 1 - Number Theory/topic 1/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.185978
+pdfs were found in ./content/Session 1 - Number Theory/topic 1/pdfs
+
+process successful at 2022-02-15 16:37:22.186975
+exam pdfs were found in ./content/Session 1 - Number Theory/topic 1/examqs
+
+process successful at 2022-02-15 16:37:22.188970
+found session structure for Session 1 - Number Theorytopic 2
+
+process successful at 2022-02-15 16:37:22.188970
+planning doc is located at ./content/Session 1 - Number Theory/topic 2/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.197042
+pdfs were found in ./content/Session 1 - Number Theory/topic 2/pdfs
+
+process successful at 2022-02-15 16:37:22.197945
+exam pdfs were found in ./content/Session 1 - Number Theory/topic 2/examqs
+
+process successful at 2022-02-15 16:37:22.199979
+found session structure for Session 1 - Number Theorytopic 3
+
+process successful at 2022-02-15 16:37:22.199979
+planning doc is located at ./content/Session 1 - Number Theory/topic 3/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.207919
+pdfs were found in ./content/Session 1 - Number Theory/topic 3/pdfs
+
+process successful at 2022-02-15 16:37:22.208917
+exam pdfs were found in ./content/Session 1 - Number Theory/topic 3/examqs
+
+process successful at 2022-02-15 16:37:22.209913
+ sections in Session 2 - Non Calculator Methods are ['topic 1', 'topic 2', 'topic 3'] they will be added to site
+
+process successful at 2022-02-15 16:37:22.212956
+found session structure for Session 2 - Non Calculator Methodstopic 1
+
+process successful at 2022-02-15 16:37:22.213401
+planning doc is located at ./content/Session 2 - Non Calculator Methods/topic 1/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.219974
+pdfs were found in ./content/Session 2 - Non Calculator Methods/topic 1/pdfs
+
+process successful at 2022-02-15 16:37:22.220952
+exam pdfs were found in ./content/Session 2 - Non Calculator Methods/topic 1/examqs
+
+process successful at 2022-02-15 16:37:22.222952
+found session structure for Session 2 - Non Calculator Methodstopic 2
+
+process successful at 2022-02-15 16:37:22.223947
+planning doc is located at ./content/Session 2 - Non Calculator Methods/topic 2/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.231955
+pdfs were found in ./content/Session 2 - Non Calculator Methods/topic 2/pdfs
+
+process successful at 2022-02-15 16:37:22.232924
+exam pdfs were found in ./content/Session 2 - Non Calculator Methods/topic 2/examqs
+
+process successful at 2022-02-15 16:37:22.234920
+found session structure for Session 2 - Non Calculator Methodstopic 3
+
+process successful at 2022-02-15 16:37:22.235916
+planning doc is located at ./content/Session 2 - Non Calculator Methods/topic 3/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.242930
+pdfs were found in ./content/Session 2 - Non Calculator Methods/topic 3/pdfs
+
+process successful at 2022-02-15 16:37:22.243927
+exam pdfs were found in ./content/Session 2 - Non Calculator Methods/topic 3/examqs
+
+process successful at 2022-02-15 16:37:22.244892
+ sections in Session 3 - Shape and Space (1) are ['topic 1', 'topic 2', 'topic 3'] they will be added to site
+
+process successful at 2022-02-15 16:37:22.247885
+found session structure for Session 3 - Shape and Space (1)topic 1
+
+process successful at 2022-02-15 16:37:22.248414
+planning doc is located at ./content/Session 3 - Shape and Space (1)/topic 1/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.257857
+pdfs were found in ./content/Session 3 - Shape and Space (1)/topic 1/pdfs
+
+process successful at 2022-02-15 16:37:22.258854
+exam pdfs were found in ./content/Session 3 - Shape and Space (1)/topic 1/examqs
+
+process successful at 2022-02-15 16:37:22.260848
+found session structure for Session 3 - Shape and Space (1)topic 2
+
+process successful at 2022-02-15 16:37:22.260848
+planning doc is located at ./content/Session 3 - Shape and Space (1)/topic 2/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.269149
+pdfs were found in ./content/Session 3 - Shape and Space (1)/topic 2/pdfs
+
+process successful at 2022-02-15 16:37:22.271004
+exam pdfs were found in ./content/Session 3 - Shape and Space (1)/topic 2/examqs
+
+process successful at 2022-02-15 16:37:22.273995
+found session structure for Session 3 - Shape and Space (1)topic 3
+
+process successful at 2022-02-15 16:37:22.275024
+planning doc is located at ./content/Session 3 - Shape and Space (1)/topic 3/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.281973
+pdfs were found in ./content/Session 3 - Shape and Space (1)/topic 3/pdfs
+
+process successful at 2022-02-15 16:37:22.282971
+exam pdfs were found in ./content/Session 3 - Shape and Space (1)/topic 3/examqs
+
+process successful at 2022-02-15 16:37:22.284983
+ sections in Session 4 - Shape and Space (2) are ['topic 1', 'topic 2', 'topic 3'] they will be added to site
+
+process successful at 2022-02-15 16:37:22.288955
+found session structure for Session 4 - Shape and Space (2)topic 1
+
+process successful at 2022-02-15 16:37:22.289954
+planning doc is located at ./content/Session 4 - Shape and Space (2)/topic 1/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.297278
+pdfs were found in ./content/Session 4 - Shape and Space (2)/topic 1/pdfs
+
+process successful at 2022-02-15 16:37:22.298243
+exam pdfs were found in ./content/Session 4 - Shape and Space (2)/topic 1/examqs
+
+process successful at 2022-02-15 16:37:22.300240
+found session structure for Session 4 - Shape and Space (2)topic 2
+
+process successful at 2022-02-15 16:37:22.300240
+planning doc is located at ./content/Session 4 - Shape and Space (2)/topic 2/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.308244
+pdfs were found in ./content/Session 4 - Shape and Space (2)/topic 2/pdfs
+
+process successful at 2022-02-15 16:37:22.309248
+exam pdfs were found in ./content/Session 4 - Shape and Space (2)/topic 2/examqs
+
+process successful at 2022-02-15 16:37:22.310213
+found session structure for Session 4 - Shape and Space (2)topic 3
+
+process successful at 2022-02-15 16:37:22.311512
+planning doc is located at ./content/Session 4 - Shape and Space (2)/topic 3/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.320030
+pdfs were found in ./content/Session 4 - Shape and Space (2)/topic 3/pdfs
+
+process successful at 2022-02-15 16:37:22.320994
+exam pdfs were found in ./content/Session 4 - Shape and Space (2)/topic 3/examqs
+
+process successful at 2022-02-15 16:37:22.321991
+ sections in Session 5 - Ratio and Proportion are ['topic 1', 'topic 2', 'topic 3'] they will be added to site
+
+process successful at 2022-02-15 16:37:22.324984
+found session structure for Session 5 - Ratio and Proportiontopic 1
+
+process successful at 2022-02-15 16:37:22.326291
+planning doc is located at ./content/Session 5 - Ratio and Proportion/topic 1/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.334358
+pdfs were found in ./content/Session 5 - Ratio and Proportion/topic 1/pdfs
+
+process successful at 2022-02-15 16:37:22.334724
+exam pdfs were found in ./content/Session 5 - Ratio and Proportion/topic 1/examqs
+
+process successful at 2022-02-15 16:37:22.336510
+found session structure for Session 5 - Ratio and Proportiontopic 2
+
+process successful at 2022-02-15 16:37:22.337638
+planning doc is located at ./content/Session 5 - Ratio and Proportion/topic 2/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.344103
+pdfs were found in ./content/Session 5 - Ratio and Proportion/topic 2/pdfs
+
+process successful at 2022-02-15 16:37:22.345135
+exam pdfs were found in ./content/Session 5 - Ratio and Proportion/topic 2/examqs
+
+process successful at 2022-02-15 16:37:22.348183
+found session structure for Session 5 - Ratio and Proportiontopic 3
+
+process successful at 2022-02-15 16:37:22.349055
+planning doc is located at ./content/Session 5 - Ratio and Proportion/topic 3/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.356114
+pdfs were found in ./content/Session 5 - Ratio and Proportion/topic 3/pdfs
+
+process successful at 2022-02-15 16:37:22.357032
+exam pdfs were found in ./content/Session 5 - Ratio and Proportion/topic 3/examqs
+
+process successful at 2022-02-15 16:37:22.358030
+ sections in Session 6 - FDP are ['topic 1', 'topic 2', 'topic 3'] they will be added to site
+
+process successful at 2022-02-15 16:37:22.361145
+found session structure for Session 6 - FDPtopic 1
+
+process successful at 2022-02-15 16:37:22.361145
+planning doc is located at ./content/Session 6 - FDP/topic 1/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.369178
+pdfs were found in ./content/Session 6 - FDP/topic 1/pdfs
+
+process successful at 2022-02-15 16:37:22.370298
+exam pdfs were found in ./content/Session 6 - FDP/topic 1/examqs
+
+process successful at 2022-02-15 16:37:22.372118
+found session structure for Session 6 - FDPtopic 2
+
+process successful at 2022-02-15 16:37:22.373150
+planning doc is located at ./content/Session 6 - FDP/topic 2/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.381094
+pdfs were found in ./content/Session 6 - FDP/topic 2/pdfs
+
+process successful at 2022-02-15 16:37:22.382091
+exam pdfs were found in ./content/Session 6 - FDP/topic 2/examqs
+
+process successful at 2022-02-15 16:37:22.384089
+found session structure for Session 6 - FDPtopic 3
+
+process successful at 2022-02-15 16:37:22.385215
+planning doc is located at ./content/Session 6 - FDP/topic 3/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.392374
+pdfs were found in ./content/Session 6 - FDP/topic 3/pdfs
+
+process successful at 2022-02-15 16:37:22.392925
+exam pdfs were found in ./content/Session 6 - FDP/topic 3/examqs
+
+process successful at 2022-02-15 16:37:22.393495
+ sections in Session 7 - Percentages are ['topic 1', 'topic 2', 'topic 3'] they will be added to site
+
+process successful at 2022-02-15 16:37:22.396481
+found session structure for Session 7 - Percentagestopic 1
+
+process successful at 2022-02-15 16:37:22.397365
+planning doc is located at ./content/Session 7 - Percentages/topic 1/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.404345
+pdfs were found in ./content/Session 7 - Percentages/topic 1/pdfs
+
+process successful at 2022-02-15 16:37:22.405343
+exam pdfs were found in ./content/Session 7 - Percentages/topic 1/examqs
+
+process successful at 2022-02-15 16:37:22.407337
+found session structure for Session 7 - Percentagestopic 2
+
+process successful at 2022-02-15 16:37:22.407337
+planning doc is located at ./content/Session 7 - Percentages/topic 2/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.416051
+pdfs were found in ./content/Session 7 - Percentages/topic 2/pdfs
+
+process successful at 2022-02-15 16:37:22.417011
+exam pdfs were found in ./content/Session 7 - Percentages/topic 2/examqs
+
+process successful at 2022-02-15 16:37:22.419006
+found session structure for Session 7 - Percentagestopic 3
+
+process successful at 2022-02-15 16:37:22.420003
+planning doc is located at ./content/Session 7 - Percentages/topic 3/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.427116
+pdfs were found in ./content/Session 7 - Percentages/topic 3/pdfs
+
+process successful at 2022-02-15 16:37:22.428023
+exam pdfs were found in ./content/Session 7 - Percentages/topic 3/examqs
+
+process successful at 2022-02-15 16:37:22.429008
+ sections in Session 8 - Averages and Data are ['topic 1', 'topic 2', 'topic 3'] they will be added to site
+
+process successful at 2022-02-15 16:37:22.432969
+found session structure for Session 8 - Averages and Datatopic 1
+
+process successful at 2022-02-15 16:37:22.432969
+planning doc is located at ./content/Session 8 - Averages and Data/topic 1/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.439988
+pdfs were found in ./content/Session 8 - Averages and Data/topic 1/pdfs
+
+process successful at 2022-02-15 16:37:22.440947
+exam pdfs were found in ./content/Session 8 - Averages and Data/topic 1/examqs
+
+process successful at 2022-02-15 16:37:22.443940
+found session structure for Session 8 - Averages and Datatopic 2
+
+process successful at 2022-02-15 16:37:22.444937
+planning doc is located at ./content/Session 8 - Averages and Data/topic 2/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.452277
+pdfs were found in ./content/Session 8 - Averages and Data/topic 2/pdfs
+
+process successful at 2022-02-15 16:37:22.452916
+exam pdfs were found in ./content/Session 8 - Averages and Data/topic 2/examqs
+
+process successful at 2022-02-15 16:37:22.455277
+found session structure for Session 8 - Averages and Datatopic 3
+
+process successful at 2022-02-15 16:37:22.456287
+planning doc is located at ./content/Session 8 - Averages and Data/topic 3/instructionsections/lesson plan fs.xlsx
+
+process successful at 2022-02-15 16:37:22.464353
+pdfs were found in ./content/Session 8 - Averages and Data/topic 3/pdfs
+
+process successful at 2022-02-15 16:37:22.464948
+exam pdfs were found in ./content/Session 8 - Averages and Data/topic 3/examqs
+
