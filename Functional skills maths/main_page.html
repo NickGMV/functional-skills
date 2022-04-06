@@ -5,31 +5,57 @@
 
 
 <head>
- <title>main_page </title>
-</head> 
+ <title>Maths functional skills - One stop shop </title>
+ </head> 
 <body>
-<hr>
+
 
 <div class = "buffer"></div>
 
-<div class = "navbox"><a href = "./Session 1 - Number Theory/Session 1 - Number Theory.html"> Session 1 - Number Theory </a></div><div class = "navbox"><a href = "./Session 2 - Non Calculator Methods/Session 2 - Non Calculator Methods.html"> Session 2 - Non Calculator Methods </a></div><div class = "navbox"><a href = "./Session 3 - Shape and Space (1)/Session 3 - Shape and Space (1).html"> Session 3 - Shape and Space (1) </a></div><div class = "navbox"><a href = "./Session 4 - Shape and Space (2)/Session 4 - Shape and Space (2).html"> Session 4 - Shape and Space (2) </a></div><div class = "navbox"><a href = "./Session 5 - Ratio and Proportion/Session 5 - Ratio and Proportion.html"> Session 5 - Ratio and Proportion </a></div><div class = "navbox"><a href = "./Session 6 - FDP/Session 6 - FDP.html"> Session 6 - FDP </a></div><div class = "navbox"><a href = "./Session 7 - Percentages/Session 7 - Percentages.html"> Session 7 - Percentages </a></div><div class = "navbox"><a href = "./Session 8 - Averages and Data/Session 8 - Averages and Data.html"> Session 8 - Averages and Data </a></div>
-
-<div class = 'banner1 banner'>
-    <div class = 'info_box'>
-        <p> Remember that passing your maths qualification is required to complete your apprenticeship, <br>
-            the expectation is to get it completed 180 days in to your apprenticeship</p>
-        <p> use the links below to book your instruction sessions with our coaches</p>
-        <a>book your session</a>
-
-        <p> Are you ready for your exams? Follow the link below to get them booked in</p>
-    </div>
+<div class = "content_wrapper">
+<iframe id = "frame" class = "viewer" src = "message.html" allow="fullscreen">
+</iframe>
 </div>
-
-
-
-<div class = 'banner2 banner'>
-    <div class = 'info_box'>
-        <p> Just here for some exam questions?</p>
-        <a href = 'https://nickgmv.github.io/exampapers/exam_papers_english.html'>take me to the exam repository</a>
-    </div>
+<div id = "navigation">
+<ul class = "nav nav1">
+<li onclick = 'changelink("./intro.html")'>Introduction</li>
+<li><p onclick = "expandhidechild(this)">Past papers</p> <ol class = "hidden nav nav2"><li         onclick = 'changelink("https://nickgmv.github.io/exampapers/exam_papers_maths.html")'>NCFE Past Papers </li>
+</li><li>MME Past Papers</li></ol>
+</li><li><p onclick = "expandhidechild(this)">Our 10 week course</p> <ol class = "hidden nav nav2">
+<li onclick = 'changelink("./Session 1 - Number Theory/Session 1 - Number Theory.html")'>Session 1 - Number Theory sessions </li>
+<li onclick = 'changelink("./Session 2 - Non Calculator Methods/Session 2 - Non Calculator Methods.html")'>Session 2 - Non Calculator Methods sessions </li>
+<li onclick = 'changelink("./Session 3 - Shape and Space (1)/Session 3 - Shape and Space (1).html")'>Session 3 - Shape and Space (1) sessions </li>
+<li onclick = 'changelink("./Session 4 - Shape and Space (2)/Session 4 - Shape and Space (2).html")'>Session 4 - Shape and Space (2) sessions </li>
+<li onclick = 'changelink("./Session 5 - Ratio and Proportion/Session 5 - Ratio and Proportion.html")'>Session 5 - Ratio and Proportion sessions </li>
+<li onclick = 'changelink("./Session 6 - FDP/Session 6 - FDP.html")'>Session 6 - FDP sessions </li>
+<li onclick = 'changelink("./Session 7 - Percentages/Session 7 - Percentages.html")'>Session 7 - Percentages sessions </li>
+<li onclick = 'changelink("./Session 8 - Averages and Data/Session 8 - Averages and Data.html")'>Session 8 - Averages and Data sessions </li>
+<li onclick = 'changelink("./Session 9 - Conversions/Session 9 - Conversions.html")'>Session 9 - Conversions sessions </li>
+</ol><li onclick = 'changelink("./bios/bios.html")' >about us</li></ul>
 </div>
+<img id="fullscreen2" src = "./assets/screen button.png"><script>
+function changelink(link){
+    var frame = document.getElementById('frame');
+    frame.src = link;
+}
+
+//document.getElementById('fullscreen').addEventListener('click',()=>{
+//    var frame = document.getElementById('frame')
+ //   frame.classList.toggle('fullscreen')
+//})
+
+document.getElementById('fullscreen2').addEventListener('click',()=>{
+    var frame = document.getElementById('frame')
+    var button = document.getElementById('fullscreen2')
+    frame.classList.toggle('fullscreen')
+    button.classList.toggle('fullscreen')
+})
+function expandhidechild(doc){
+    //window.alert(doc)
+var child = doc.parentNode.childNodes;
+//window.alert(child)
+//child.classList.toggle("show");
+//window.alert(child.classList);
+child[2].classList.toggle("hidden");
+}
+</script></body>

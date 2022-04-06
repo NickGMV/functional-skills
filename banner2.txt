@@ -1,6 +1,0 @@
-<div class = 'banner2 banner'>
-    <div class = 'info_box'>
-        <p> Just here for some exam questions?</p>
-        <a href = 'https://nickgmv.github.io/exampapers/exam_papers_english.html'>take me to the exam repository</a>
-    </div>
-</div>

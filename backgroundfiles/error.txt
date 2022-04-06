@@ -1,0 +1,722 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-03-25 14:45:12.947748 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-03-25 14:46:12.936528 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-03-25 14:46:47.060047 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-03-25 14:49:59.278578 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-03-25 14:51:28.554642 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-03-25 14:52:55.505493 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-03-25 14:54:36.734000 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-03-25 14:56:01.968209 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-03-25 14:57:54.496413 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-03-25 14:58:42.118738 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-03-25 14:59:39.092309 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-03-25 15:25:08.654288 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-03-25 15:26:38.473882 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-01 11:31:38.011431 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-01 11:31:38.066402
+no pdf exercises folder present in ./content/Session 1 - Number Theory/topic 1/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.066805
+no exam folder present in ./content/Session 1 - Number Theory/topic 1/examqs
+
+reported error at 2022-04-01 11:31:38.070629
+no pdf exercises folder present in ./content/Session 1 - Number Theory/topic 2/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.075368
+no exam folder present in ./content/Session 1 - Number Theory/topic 2/examqs
+
+reported error at 2022-04-01 11:31:38.078393
+no pdf exercises folder present in ./content/Session 1 - Number Theory/topic 3/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.084383
+no exam folder present in ./content/Session 1 - Number Theory/topic 3/examqs
+
+reported error at 2022-04-01 11:31:38.090480
+no pdf exercises folder present in ./content/Session 2 - Non Calculator Methods/topic 1/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.094486
+no exam folder present in ./content/Session 2 - Non Calculator Methods/topic 1/examqs
+
+reported error at 2022-04-01 11:31:38.098652
+no pdf exercises folder present in ./content/Session 2 - Non Calculator Methods/topic 2/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.103721
+no exam folder present in ./content/Session 2 - Non Calculator Methods/topic 2/examqs
+
+reported error at 2022-04-01 11:31:38.105862
+no pdf exercises folder present in ./content/Session 2 - Non Calculator Methods/topic 3/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.111592
+no exam folder present in ./content/Session 2 - Non Calculator Methods/topic 3/examqs
+
+reported error at 2022-04-01 11:31:38.117615
+no pdf exercises folder present in ./content/Session 3 - Shape and Space (1)/topic 1/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.122750
+no exam folder present in ./content/Session 3 - Shape and Space (1)/topic 1/examqs
+
+reported error at 2022-04-01 11:31:38.126573
+no pdf exercises folder present in ./content/Session 3 - Shape and Space (1)/topic 2/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.131649
+no exam folder present in ./content/Session 3 - Shape and Space (1)/topic 2/examqs
+
+reported error at 2022-04-01 11:31:38.135669
+no pdf exercises folder present in ./content/Session 3 - Shape and Space (1)/topic 3/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.139924
+no exam folder present in ./content/Session 3 - Shape and Space (1)/topic 3/examqs
+
+reported error at 2022-04-01 11:31:38.149857
+no pdf exercises folder present in ./content/Session 4 - Shape and Space (2)/topic 1/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.149857
+no exam folder present in ./content/Session 4 - Shape and Space (2)/topic 1/examqs
+
+reported error at 2022-04-01 11:31:38.152956
+no pdf exercises folder present in ./content/Session 4 - Shape and Space (2)/topic 2/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.158221
+no exam folder present in ./content/Session 4 - Shape and Space (2)/topic 2/examqs
+
+reported error at 2022-04-01 11:31:38.161787
+no pdf exercises folder present in ./content/Session 4 - Shape and Space (2)/topic 3/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.166979
+no exam folder present in ./content/Session 4 - Shape and Space (2)/topic 3/examqs
+
+reported error at 2022-04-01 11:31:38.173358
+no pdf exercises folder present in ./content/Session 5 - Ratio and Proportion/topic 1/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.178359
+no exam folder present in ./content/Session 5 - Ratio and Proportion/topic 1/examqs
+
+reported error at 2022-04-01 11:31:38.183345
+no pdf exercises folder present in ./content/Session 5 - Ratio and Proportion/topic 2/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.187327
+no exam folder present in ./content/Session 5 - Ratio and Proportion/topic 2/examqs
+
+reported error at 2022-04-01 11:31:38.190774
+no pdf exercises folder present in ./content/Session 5 - Ratio and Proportion/topic 3/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.195847
+no exam folder present in ./content/Session 5 - Ratio and Proportion/topic 3/examqs
+
+reported error at 2022-04-01 11:31:38.200993
+no pdf exercises folder present in ./content/Session 6 - FDP/topic 1/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.204819
+no exam folder present in ./content/Session 6 - FDP/topic 1/examqs
+
+reported error at 2022-04-01 11:31:38.207951
+no pdf exercises folder present in ./content/Session 6 - FDP/topic 2/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.212711
+no exam folder present in ./content/Session 6 - FDP/topic 2/examqs
+
+reported error at 2022-04-01 11:31:38.214833
+no pdf exercises folder present in ./content/Session 6 - FDP/topic 3/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.220248
+no exam folder present in ./content/Session 6 - FDP/topic 3/examqs
+
+reported error at 2022-04-01 11:31:38.224585
+no pdf exercises folder present in ./content/Session 7 - Percentages/topic 1/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.230035
+no exam folder present in ./content/Session 7 - Percentages/topic 1/examqs
+
+reported error at 2022-04-01 11:31:38.234070
+no pdf exercises folder present in ./content/Session 7 - Percentages/topic 2/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.238435
+no exam folder present in ./content/Session 7 - Percentages/topic 2/examqs
+
+reported error at 2022-04-01 11:31:38.241499
+no pdf exercises folder present in ./content/Session 7 - Percentages/topic 3/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.246862
+no exam folder present in ./content/Session 7 - Percentages/topic 3/examqs
+
+reported error at 2022-04-01 11:31:38.251776
+no pdf exercises folder present in ./content/Session 8 - Averages and Data/topic 1/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.256336
+no exam folder present in ./content/Session 8 - Averages and Data/topic 1/examqs
+
+reported error at 2022-04-01 11:31:38.259478
+no pdf exercises folder present in ./content/Session 8 - Averages and Data/topic 2/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.264605
+no exam folder present in ./content/Session 8 - Averages and Data/topic 2/examqs
+
+reported error at 2022-04-01 11:31:38.268372
+no pdf exercises folder present in ./content/Session 8 - Averages and Data/topic 3/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.272880
+no exam folder present in ./content/Session 8 - Averages and Data/topic 3/examqs
+
+reported error at 2022-04-01 11:31:38.278196
+no pdf exercises folder present in ./content/Session 9 - Conversions/topic 1/pdfs check if this is needed
+
+reported error at 2022-04-01 11:31:38.282468
+no exam folder present in ./content/Session 9 - Conversions/topic 1/examqs
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-01 11:33:58.205720 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-01 11:33:58.234709
+no pdf exercises folder present in ./content/Session 1 - Number Theory/topic 1/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.241991
+no pdf exercises folder present in ./content/Session 1 - Number Theory/topic 2/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.248176
+no pdf exercises folder present in ./content/Session 1 - Number Theory/topic 3/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.260836
+no pdf exercises folder present in ./content/Session 2 - Non Calculator Methods/topic 1/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.268621
+no pdf exercises folder present in ./content/Session 2 - Non Calculator Methods/topic 2/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.272689
+no pdf exercises folder present in ./content/Session 2 - Non Calculator Methods/topic 3/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.280018
+no pdf exercises folder present in ./content/Session 3 - Shape and Space (1)/topic 1/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.290440
+no pdf exercises folder present in ./content/Session 3 - Shape and Space (1)/topic 2/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.298150
+no pdf exercises folder present in ./content/Session 3 - Shape and Space (1)/topic 3/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.307193
+no pdf exercises folder present in ./content/Session 4 - Shape and Space (2)/topic 1/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.314226
+no pdf exercises folder present in ./content/Session 4 - Shape and Space (2)/topic 2/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.317238
+no pdf exercises folder present in ./content/Session 4 - Shape and Space (2)/topic 3/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.325236
+no pdf exercises folder present in ./content/Session 5 - Ratio and Proportion/topic 1/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.331568
+no pdf exercises folder present in ./content/Session 5 - Ratio and Proportion/topic 2/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.339721
+no pdf exercises folder present in ./content/Session 5 - Ratio and Proportion/topic 3/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.348277
+no pdf exercises folder present in ./content/Session 6 - FDP/topic 1/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.360352
+no pdf exercises folder present in ./content/Session 6 - FDP/topic 2/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.367491
+no pdf exercises folder present in ./content/Session 6 - FDP/topic 3/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.372768
+no pdf exercises folder present in ./content/Session 7 - Percentages/topic 1/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.379966
+no pdf exercises folder present in ./content/Session 7 - Percentages/topic 2/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.386232
+no pdf exercises folder present in ./content/Session 7 - Percentages/topic 3/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.394037
+no pdf exercises folder present in ./content/Session 8 - Averages and Data/topic 1/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.405494
+no pdf exercises folder present in ./content/Session 8 - Averages and Data/topic 2/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.408694
+no pdf exercises folder present in ./content/Session 8 - Averages and Data/topic 3/exercises check if this is needed
+
+reported error at 2022-04-01 11:33:58.416478
+no pdf exercises folder present in ./content/Session 9 - Conversions/topic 1/exercises check if this is needed
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-01 11:35:45.611079 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-01 11:41:52.822221 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-01 11:45:12.862250 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-01 11:47:16.269952 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-01 11:49:56.204382 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-01 14:57:59.663556 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-01 15:04:14.338605 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 12:25:53.561347 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 12:27:48.802958 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 12:28:42.985077 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 12:29:42.243697 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 12:31:05.506987 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 13:01:05.084439 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 13:05:33.194207 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 13:06:07.314126 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 13:41:09.588289 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 15:49:06.852821 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 15:49:06.911152
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 15:49:40.177944 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 15:49:40.202986
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 15:52:20.225954 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 15:52:20.264793
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 15:52:46.147555 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 15:52:46.185091
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 15:53:16.879087 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 15:53:16.923617
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 15:53:26.421278 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 15:53:26.477089
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 15:54:33.087751 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 15:54:33.131938
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 15:55:11.247427 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 15:55:11.284381
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 15:56:07.823923 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 15:56:07.862568
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 15:57:22.285137 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 15:57:22.356524
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 15:57:59.301045 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 15:57:59.351875
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 16:12:02.209979 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 16:12:02.306416
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 16:12:55.807811 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 16:12:55.865733
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 16:13:17.543468 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 16:13:17.590694
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 16:16:24.005188 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 16:16:24.053399
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 16:16:45.713381 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 16:16:45.752547
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 16:24:47.474876 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 16:24:47.529169
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 16:25:06.038867 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 16:25:06.079603
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 16:27:24.948224 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 16:27:24.990922
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 16:29:37.832468 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 16:29:37.872361
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 16:30:19.493748 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 16:30:19.550371
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 16:30:38.843854 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 16:30:38.890186
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 16:31:39.756156 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 16:31:39.797209
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 16:32:07.793203 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 16:32:07.839333
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 16:32:20.079081 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 16:32:20.123932
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 16:34:15.903914 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 16:34:15.945980
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 16:35:11.690935 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 16:35:11.735280
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-04 16:35:47.356132 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+reported error at 2022-04-04 16:35:47.406905
+content type not recognised check your planning document for errors - find it at ./content/Session 1 - Number Theory/topic 1/plan.xlsx
+
