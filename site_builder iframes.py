@@ -93,6 +93,10 @@ def copy_dependencies():
     target2 = f'{path}/fs_styles_content.css'
     shutil.copyfile(original2, target2)
 
+    original3 = './backgroundfiles/message.html'
+    target3 = f'{path}/message.html'
+    shutil.copyfile(original3, target3)
+
 # find the content folders from which to generate the site
 
 # key files generated
@@ -142,10 +146,15 @@ with open(bios_path,'w') as b:
 <div class = "content_wrapper">
     ''')
     for index, row in bio_data.iterrows():
-         b.write(f'<h2>{row[0]}</h2>')
-         b.write(f'<img class = "bio" src="../assets/bios/{row[1]}">')
-         b.write(f'<p>{row[2]}</p>')
-         b.write(f'<a href = "{row[3]}">{row[3]}</a>')
+         b.write('<div class = "bio_section">\n')
+         b.write(f'<h2>{row[0]}</h2>\n')
+         b.write(f'<img class = "bio" src="../assets/bios/{row[1]}">\n')
+         b.write(f'<p>{row[2]}</p>\n')
+         b.write(f'<a href = "{row[3]}">{row[3]}</a>\n')
+         b.write('</div>')
+
+    b.write('</body>\n')
+    b.close()
      
 
 
@@ -170,8 +179,9 @@ with open(main_page_path ,"w") as h:
     h.write('</iframe>\n')
     h.write('</div>\n')
     h.write('<div id = "navigation">\n')
+    h.write('''<div id= "navigation_inner">\n''')
     h.write('<ul class = "nav nav1">\n')
-    h.write('''<li onclick = 'changelink("./intro.html")'>Introduction</li>\n''')
+    h.write('''<li onclick = 'changelink("./message.html")'>Introduction</li>\n''')
     h.write('''<li><p onclick = "expandhidechild(this)">Past papers</p> <ol class = "hidden nav nav2"><li \
         onclick = 'changelink("https://nickgmv.github.io/exampapers/exam_papers_maths.html")'>NCFE Past Papers </li>\n''')
     h.write('</li><li>MME Past Papers</li></ol>\n</li>')
@@ -307,11 +317,13 @@ for part in level1:
             #f.write()
             f.write('</body>')
 h = open(main_page_path,'a')
-h.write(f'''</ol><li onclick = 'changelink("./bios/bios.html")' >about us</li>''')
+h.write('''</ol><li onclick = 'changelink("./videos.html")'>videos by topic</li>\n
+<li onclick = 'changelink("./examqs.html")'>exam questions by topic</li>''')
+h.write(f'''<li onclick = 'changelink("./bios/bios.html")' >about us</li>''')
 #endo fo nav list
 # 
 h.write('</ul>\n')
-h.write('</div>\n')
+h.write('</div>\n</div>\n')
 #h.write('''<button id="fullscreen" >toggle full screen</button>''')
 h.write('''<img id="fullscreen2" src = "./assets/screen button.png">''')
 

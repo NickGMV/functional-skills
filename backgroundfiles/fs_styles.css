@@ -2,6 +2,7 @@ p{
   text-align: left;
 }
 img.bio{
+  min-width:35vw;
   max-width:50vw;
   height:auto;
   align-self: center;
@@ -99,10 +100,17 @@ body{
   font-size: 4vmin;
   position:fixed;
   top:33vh;
+  left:0.1vw;
   width:20vw;
   background-color: aliceblue;
   border-radius: 3vmin;
   border-style: solid;
+}
+.bio_section{
+  margin:2vmin 2vmin;
+  border-style: solid;
+  border-radius:1vmin;
+  width:50vw;
 }
 
 #frame{
@@ -134,7 +142,11 @@ body{
   width:90vw;
   position: relative;
 }
-
+#navigation_inner{
+width:12vw;
+position:relative;
+left:2vw;
+}
 .navbox{
 width:60vw;
 height: 15vh;
@@ -158,11 +170,19 @@ margin-bottom: 2vh;
 }
 
 ul{
-  list-style-type: none;
+  text-align: left;
+  list-style-type:circle;
   margin: 0;
   padding: 0;
 }
-
+ul li{
+  margin-bottom:1vmin;
+  font-size: 2vmin;
+}
+ol{
+  text-align: left;
+  font-size:1.5vmin;
+}
 .nav li{
   color:#242456;
   font-size:2vmin;
