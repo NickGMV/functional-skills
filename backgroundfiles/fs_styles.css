@@ -1,27 +1,3 @@
-p{
-  text-align: left;
-}
-img.bio{
-  min-width:35vw;
-  max-width:50vw;
-  height:auto;
-  align-self: center;
-}
-.pdf{ width:32%;
-      height:50vh;
-    
-}
-
-.pdf:focus{
-    width:100%;
-}
-.section{
-    border-style:solid;
-    border-radius: calc();
-    border-color: cornflowerblue;
-}
-
-
 .mod_desc{
   height:2px;
   overflow-y: hidden;
@@ -49,6 +25,8 @@ iframe.fullscreen {
   height: 100vh !important;
   z-index:1;
 }
+
+/* size toggle button*/
 #fullscreen2{
   position:fixed;
   top:85vh;
@@ -73,6 +51,8 @@ iframe.fullscreen {
   border-radius: 2vmin;
   border-style: none;
 }
+
+/* general */
 .buffer{
   height:25vh;
   width:100vw;
@@ -106,13 +86,72 @@ body{
   border-radius: 3vmin;
   border-style: solid;
 }
+
+p{
+  text-align: left;
+}
+
+.pdf{ width:32%;
+      height:50vh;   
+}
+
+.pdf:focus{
+    width:100%;
+}
+.section{
+    border-style:solid;
+    border-radius: calc();
+    border-color: cornflowerblue;
+}
+
+/* bio page specifics*/
 .bio_section{
   margin:2vmin 2vmin;
   border-style: solid;
   border-radius:1vmin;
-  width:50vw;
+  width:30vw;
+  height:75vh;
+  overflow-y: hidden;
+  float:left;
 }
 
+.bio_section:hover{
+  overflow-y: scroll;
+}
+
+img.bio{
+  
+  max-width:100%;
+  height:35%;
+  align-self: center;
+}
+
+.bio_section p{
+  font-size: 3vmin;
+}
+.bio_section a{
+  font-size: 3vmin;
+}
+.bio_section h2{
+  font-size:5vmin;
+}
+
+/* individual topics page specific*/ 
+.topic{
+width:40%;
+
+border-radius: 2vmin;
+border-style: solid;
+float:left;
+padding:1vmin;
+margin: 1vmin;
+}
+.topic .vid{
+  width:90%;
+  margin:2vmin 2vmin 2vmin 2vmin;
+} 
+
+/*general content*/
 #frame{
   width:78vw;
   height:65vh;
