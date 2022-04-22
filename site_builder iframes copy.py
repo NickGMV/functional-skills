@@ -184,11 +184,12 @@ with open(topics_section_path,"w") as j:
     for index,row in topics.iterrows():
         ul.append(f'<li><a href = "#{row[0]}">{row[0]}</a></li>\n')
         j.write('<div class = "topic">\n')
+        j.write('<div class = "buffer_small2"></div>\n')
         j.write(f'<h2 id="{row[0]}"> {row[0]} </h2>\n')
         j.write(f'<iframe class = "vid" src = {row[1]} webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>\n')
         j.write(f'<iframe class="pdf coached" src="../content/individual topics pdf/{row[2]}.pdf"  type="application/pdf" allow="fullscreen"></iframe>\n')
         j.write('<img class="fullscreen_topic" src = "./assets/screenbutton2.png">')
-        j.write('<div class = "buffer_small"></div></div>\n')
+        j.write('<div class = "buffer_small2"></div></div>\n')
     j.write('</div>\n </div>') 
     j.write('<div id = "navigation_individual">\n') 
     j.write('<input type="text" id="myInput" onkeyup="search()" placeholder="Search for content...">') 
@@ -223,9 +224,9 @@ var buttons = document.getElementsByClassName('fullscreen_topic')
 for (let i =0;i<buttons.length;i++){
   buttons[i].addEventListener('click',(e)=>{
 var topic = buttons[i].parentNode
-window.alert(topic)
-var button = this
-window.alert(button)
+//window.alert(topic)
+var button = buttons[i]
+//window.alert(button)
 topic.classList.toggle('fullscreen')
 button.classList.toggle('fullscreen')
 })
@@ -355,7 +356,7 @@ h.write(f'''<li onclick = 'changelink("./bios/bios.html")' >About us</li>''')
 h.write('</ul>\n')
 h.write('</div>\n</div>\n')
 #h.write('''<button id="fullscreen" >toggle full screen</button>''')
-h.write('''<img id="fullscreen2" src = "./assets/screen button.png">''')
+h.write('''<img id="fullscreen2" src = "./assets/screenbutton.png">''')
 
 #add js script could compartmentalise this
 h.write('''<script>
