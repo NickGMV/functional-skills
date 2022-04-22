@@ -175,25 +175,65 @@ with open(topics_section_path,"w") as j:
  <title>Maths functional skills - One stop shop </title>
  </head> 
 <body>
-
- <div class = "content_wrapper">''')
+ <div class ="buffer_small"></div>
+ <div class = "content_wrapper">
+ ''')
     topics = pd.read_excel(ind_path,0)
     ul = []
+    
     for index,row in topics.iterrows():
-        ul.append(f'<li><a href = "#{row[0]}">{row[0]}</a></li>\n"')
+        ul.append(f'<li><a href = "#{row[0]}">{row[0]}</a></li>\n')
         j.write('<div class = "topic">\n')
         j.write(f'<h2 id="{row[0]}"> {row[0]} </h2>\n')
         j.write(f'<iframe class = "vid" src = {row[1]} webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>\n')
         j.write(f'<iframe class="pdf coached" src="../content/individual topics pdf/{row[2]}.pdf"  type="application/pdf" allow="fullscreen"></iframe>\n')
+        j.write('<img class="fullscreen_topic" src = "./assets/screen button.png">')
         j.write('</div>\n')
-    j.write('</div>\n')
-    j.write('<div id = "navigation">\n') 
-    j.write('<div id = "navigation_inner">\n') 
-    j.write('<ol>\n') 
+    j.write('</div>\n </div>') 
+    j.write('<div id = "navigation_individual">\n') 
+    j.write('<input type="text" id="myInput" onkeyup="search()" placeholder="Search for content...">') 
+    j.write('<ol id = "nav_list">\n') 
     for link in ul:
         j.write(link) 
-    j.write('</ol>\n</div>\n</div>\n')
+    j.write('</ol>\n</div>\n')
+    j.write('''
+    <script>
+function search() {
+  // Declare variables
+  var input, filter, ul, li, a, i, txtValue;
+  input = document.getElementById('myInput');
+  filter = input.value.toUpperCase();
+  ul = document.getElementById("nav_list");
+  li = ul.getElementsByTagName('li');
+
+  // Loop through all list items, and hide those who don't match the search query
+  for (i = 0; i < li.length; i++) {
+    a = li[i].getElementsByTagName("a")[0];
+    txtValue = a.textContent || a.innerText;
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  }
+}
+
+var buttons = document.getElementsByClassName('fullscreen_topic')
+
+for (let i =0;i<buttons.length;i++){
+  buttons[i].addEventListener('click',(e)=>{
+var topic = buttons[i].parentNode
+window.alert(topic)
+var button = this
+window.alert(button)
+topic.classList.toggle('fullscreen')
+button.classList.toggle('fullscreen')
+})
+}
+</script>''')
     j.write('</body>')
+
+
 #find all the sub-parts (content sections/courses) load all parts and generate navigation pages
 level1 = os.listdir(base_path)
 report_success(f' content at the first level is {level1}\n\n\n')
@@ -284,7 +324,7 @@ with open(main_page_path ,"w") as h:
 
             
             try:
-                pdf_path = f'{base_path}/{part}/notes'
+                pdf_path = f'./{base_path}/{part}/notes'
                 report_success(f'exercise notes were found in {pdf_path}')
                 pp = os.listdir(f'{pdf_path}')
                 if pp:
@@ -292,7 +332,7 @@ with open(main_page_path ,"w") as h:
                     
                     for pdf in pp:
                         print(pdf)
-                        f.write(f'<iframe class="pdf coached" src="../../content/{part}/notes/{pdf}"  type="application/pdf" allow="fullscreen"></iframe>\n')
+                        f.write(f'<iframe class="pdf coached" src="../../content/10week/{part}/notes/{pdf}"  type="application/pdf" allow="fullscreen"></iframe>\n')
                 
             except:
                 report_issue(f'no pdf exercises folder present in {pdf_path} check if this is needed')
@@ -307,7 +347,7 @@ with open(main_page_path ,"w") as h:
 
 h = open(main_page_path,'a')
 h.write('''</ol><li onclick = 'changelink("./individual_topics.html")'>Individual topics</li>\n''')
-h.write(f'''<li onclick = 'changelink("./bookings.html")' >Book a course or exam</li>''')
+h.write(f'''<li onclick = 'changelink("https://calendly.com/functionalskillsbooking")' >Book a course or exam</li>''')
 h.write(f'''<li onclick = 'changelink("./assets/spec.pdf")' >The functional maths specification</li>''')
 h.write(f'''<li onclick = 'changelink("./bios/bios.html")' >About us</li>''')
 #endo fo nav list

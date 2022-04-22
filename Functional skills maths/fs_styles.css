@@ -24,6 +24,7 @@ iframe.fullscreen {
   width:100vw !important;
   height: 100vh !important;
   z-index:1;
+  border-radius: 0vmin!important;
 }
 
 /* size toggle button*/
@@ -61,6 +62,15 @@ iframe.fullscreen {
   margin-bottom: 2vh;
   background-size: 100% 100%;
 }
+
+.buffer_small{
+  height:9vh;
+  width:100vw;
+  background-image: url("./assets/buffer small.png");
+  background-color: #242456;
+  margin-bottom: 2vh;
+  background-size: 100% 100%;
+}
 body{
   font-family:atlas;
   font-size:25px;
@@ -75,17 +85,7 @@ body{
   height:0px;
   overflow-y: hidden;
 }
-#navigation{
-  width:100%;
-  font-size: 4vmin;
-  position:fixed;
-  top:33vh;
-  left:0.1vw;
-  width:20vw;
-  background-color: aliceblue;
-  border-radius: 3vmin;
-  border-style: solid;
-}
+
 
 p{
   text-align: left;
@@ -138,13 +138,18 @@ img.bio{
 
 /* individual topics page specific*/ 
 .topic{
-width:40%;
-
+width:80%;
+max-height:85vh;
 border-radius: 2vmin;
 border-style: solid;
 float:left;
 padding:1vmin;
 margin: 1vmin;
+overflow-y: hidden;
+}
+
+.topic:hover{
+  overflow-y: scroll;
 }
 .topic .vid{
   width:90%;
@@ -180,6 +185,27 @@ margin: 1vmin;
 .content_wrapper_sessions{
   width:90vw;
   position: relative;
+}
+#navigation{
+  width:100%;
+  font-size: 4vmin;
+  position:fixed;
+  top:33vh;
+  left:0.1vw;
+  width:20vw;
+  background-color: aliceblue;
+  border-radius: 3vmin;
+  border-style: solid;
+}
+#navigation_individual{
+  font-size: 2.5vmin;
+  position:fixed;
+  top:12vh;
+  left:2.5vw;
+  width:15vw;
+  background-color: aliceblue;
+  border-radius: 3vmin;
+  border-style: solid;
 }
 #navigation_inner{
 width:12vw;
@@ -250,3 +276,23 @@ ol{
     height:50vh;
     width:60vw;
 }
+
+#myInput{
+  font-size: 2.5vmin;
+  margin-top: 1vmin;
+  width:13vw;
+  border-radius: 1vmin;
+}
+
+  .topic.fullscreen{
+    position:fixed !important;
+    left:0!important;
+    top:0!important;
+    width:100vw !important;
+    height: 100vh !important;
+    z-index:1!important;
+    border-radius:0vmin!important;
+    background-color: white!important;
+    margin:0!important;
+    max-height: 100vh!important;
+    }
