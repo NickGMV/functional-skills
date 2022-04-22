@@ -39983,3 +39983,608 @@ planning doc is located at ./content/10week/Session 9 - Conversions/plan.xlsx
 process successful at 2022-04-22 11:24:58.847365
 exercise notes were found in ././content/10week/Session 9 - Conversions/notes
 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-22 11:32:37.369445 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+process successful at 2022-04-22 11:32:37.426725
+ content at the first level is ['Session 1 - Number Theory', 'Session 2 - Non Calculator Methods', 'Session 3 - Shape and Space (1)', 'Session 4 - Shape and Space (2)', 'Session 5 - Ratio and Proportion', 'Session 6 - FDP', 'Session 7 - Percentages', 'Session 8 - Averages and Data', 'Session 9 - Conversions']
+
+
+
+
+process successful at 2022-04-22 11:32:37.428258
+Session 1 - Number Theory was found and added to the site build
+
+process successful at 2022-04-22 11:32:37.429625
+found session structure for Session 1 - Number Theory
+
+process successful at 2022-04-22 11:32:37.430252
+planning doc is located at ./content/10week/Session 1 - Number Theory/plan.xlsx
+
+process successful at 2022-04-22 11:32:37.443623
+exercise notes were found in ././content/10week/Session 1 - Number Theory/notes
+
+process successful at 2022-04-22 11:32:37.447208
+Session 2 - Non Calculator Methods was found and added to the site build
+
+process successful at 2022-04-22 11:32:37.449202
+found session structure for Session 2 - Non Calculator Methods
+
+process successful at 2022-04-22 11:32:37.450200
+planning doc is located at ./content/10week/Session 2 - Non Calculator Methods/plan.xlsx
+
+process successful at 2022-04-22 11:32:37.461169
+exercise notes were found in ././content/10week/Session 2 - Non Calculator Methods/notes
+
+process successful at 2022-04-22 11:32:37.463542
+Session 3 - Shape and Space (1) was found and added to the site build
+
+process successful at 2022-04-22 11:32:37.464539
+found session structure for Session 3 - Shape and Space (1)
+
+process successful at 2022-04-22 11:32:37.465536
+planning doc is located at ./content/10week/Session 3 - Shape and Space (1)/plan.xlsx
+
+process successful at 2022-04-22 11:32:37.479502
+exercise notes were found in ././content/10week/Session 3 - Shape and Space (1)/notes
+
+process successful at 2022-04-22 11:32:37.481495
+Session 4 - Shape and Space (2) was found and added to the site build
+
+process successful at 2022-04-22 11:32:37.483761
+found session structure for Session 4 - Shape and Space (2)
+
+process successful at 2022-04-22 11:32:37.484487
+planning doc is located at ./content/10week/Session 4 - Shape and Space (2)/plan.xlsx
+
+process successful at 2022-04-22 11:32:37.497187
+exercise notes were found in ././content/10week/Session 4 - Shape and Space (2)/notes
+
+process successful at 2022-04-22 11:32:37.498637
+Session 5 - Ratio and Proportion was found and added to the site build
+
+process successful at 2022-04-22 11:32:37.499631
+found session structure for Session 5 - Ratio and Proportion
+
+process successful at 2022-04-22 11:32:37.500630
+planning doc is located at ./content/10week/Session 5 - Ratio and Proportion/plan.xlsx
+
+process successful at 2022-04-22 11:32:37.511599
+exercise notes were found in ././content/10week/Session 5 - Ratio and Proportion/notes
+
+process successful at 2022-04-22 11:32:37.514714
+Session 6 - FDP was found and added to the site build
+
+process successful at 2022-04-22 11:32:37.516699
+found session structure for Session 6 - FDP
+
+process successful at 2022-04-22 11:32:37.517615
+planning doc is located at ./content/10week/Session 6 - FDP/plan.xlsx
+
+process successful at 2022-04-22 11:32:37.531658
+exercise notes were found in ././content/10week/Session 6 - FDP/notes
+
+process successful at 2022-04-22 11:32:37.533746
+Session 7 - Percentages was found and added to the site build
+
+process successful at 2022-04-22 11:32:37.534743
+found session structure for Session 7 - Percentages
+
+process successful at 2022-04-22 11:32:37.536025
+planning doc is located at ./content/10week/Session 7 - Percentages/plan.xlsx
+
+process successful at 2022-04-22 11:32:37.548202
+exercise notes were found in ././content/10week/Session 7 - Percentages/notes
+
+process successful at 2022-04-22 11:32:37.550910
+Session 8 - Averages and Data was found and added to the site build
+
+process successful at 2022-04-22 11:32:37.552193
+found session structure for Session 8 - Averages and Data
+
+process successful at 2022-04-22 11:32:37.553192
+planning doc is located at ./content/10week/Session 8 - Averages and Data/plan.xlsx
+
+process successful at 2022-04-22 11:32:37.562166
+exercise notes were found in ././content/10week/Session 8 - Averages and Data/notes
+
+process successful at 2022-04-22 11:32:37.564237
+Session 9 - Conversions was found and added to the site build
+
+process successful at 2022-04-22 11:32:37.565743
+found session structure for Session 9 - Conversions
+
+process successful at 2022-04-22 11:32:37.565743
+planning doc is located at ./content/10week/Session 9 - Conversions/plan.xlsx
+
+process successful at 2022-04-22 11:32:37.576289
+exercise notes were found in ././content/10week/Session 9 - Conversions/notes
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-22 11:33:13.807484 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+process successful at 2022-04-22 11:33:13.875604
+ content at the first level is ['Session 1 - Number Theory', 'Session 2 - Non Calculator Methods', 'Session 3 - Shape and Space (1)', 'Session 4 - Shape and Space (2)', 'Session 5 - Ratio and Proportion', 'Session 6 - FDP', 'Session 7 - Percentages', 'Session 8 - Averages and Data', 'Session 9 - Conversions']
+
+
+
+
+process successful at 2022-04-22 11:33:13.878596
+Session 1 - Number Theory was found and added to the site build
+
+process successful at 2022-04-22 11:33:13.879592
+found session structure for Session 1 - Number Theory
+
+process successful at 2022-04-22 11:33:13.880592
+planning doc is located at ./content/10week/Session 1 - Number Theory/plan.xlsx
+
+process successful at 2022-04-22 11:33:13.897175
+exercise notes were found in ././content/10week/Session 1 - Number Theory/notes
+
+process successful at 2022-04-22 11:33:13.900167
+Session 2 - Non Calculator Methods was found and added to the site build
+
+process successful at 2022-04-22 11:33:13.902162
+found session structure for Session 2 - Non Calculator Methods
+
+process successful at 2022-04-22 11:33:13.902162
+planning doc is located at ./content/10week/Session 2 - Non Calculator Methods/plan.xlsx
+
+process successful at 2022-04-22 11:33:13.917591
+exercise notes were found in ././content/10week/Session 2 - Non Calculator Methods/notes
+
+process successful at 2022-04-22 11:33:13.921735
+Session 3 - Shape and Space (1) was found and added to the site build
+
+process successful at 2022-04-22 11:33:13.923308
+found session structure for Session 3 - Shape and Space (1)
+
+process successful at 2022-04-22 11:33:13.924448
+planning doc is located at ./content/10week/Session 3 - Shape and Space (1)/plan.xlsx
+
+process successful at 2022-04-22 11:33:13.940562
+exercise notes were found in ././content/10week/Session 3 - Shape and Space (1)/notes
+
+process successful at 2022-04-22 11:33:13.943235
+Session 4 - Shape and Space (2) was found and added to the site build
+
+process successful at 2022-04-22 11:33:13.945532
+found session structure for Session 4 - Shape and Space (2)
+
+process successful at 2022-04-22 11:33:13.946644
+planning doc is located at ./content/10week/Session 4 - Shape and Space (2)/plan.xlsx
+
+process successful at 2022-04-22 11:33:13.964473
+exercise notes were found in ././content/10week/Session 4 - Shape and Space (2)/notes
+
+process successful at 2022-04-22 11:33:13.967462
+Session 5 - Ratio and Proportion was found and added to the site build
+
+process successful at 2022-04-22 11:33:13.969565
+found session structure for Session 5 - Ratio and Proportion
+
+process successful at 2022-04-22 11:33:13.970656
+planning doc is located at ./content/10week/Session 5 - Ratio and Proportion/plan.xlsx
+
+process successful at 2022-04-22 11:33:13.985121
+exercise notes were found in ././content/10week/Session 5 - Ratio and Proportion/notes
+
+process successful at 2022-04-22 11:33:13.989110
+Session 6 - FDP was found and added to the site build
+
+process successful at 2022-04-22 11:33:13.991104
+found session structure for Session 6 - FDP
+
+process successful at 2022-04-22 11:33:13.992102
+planning doc is located at ./content/10week/Session 6 - FDP/plan.xlsx
+
+process successful at 2022-04-22 11:33:14.008271
+exercise notes were found in ././content/10week/Session 6 - FDP/notes
+
+process successful at 2022-04-22 11:33:14.010263
+Session 7 - Percentages was found and added to the site build
+
+process successful at 2022-04-22 11:33:14.012263
+found session structure for Session 7 - Percentages
+
+process successful at 2022-04-22 11:33:14.013491
+planning doc is located at ./content/10week/Session 7 - Percentages/plan.xlsx
+
+process successful at 2022-04-22 11:33:14.028221
+exercise notes were found in ././content/10week/Session 7 - Percentages/notes
+
+process successful at 2022-04-22 11:33:14.030215
+Session 8 - Averages and Data was found and added to the site build
+
+process successful at 2022-04-22 11:33:14.032209
+found session structure for Session 8 - Averages and Data
+
+process successful at 2022-04-22 11:33:14.032209
+planning doc is located at ./content/10week/Session 8 - Averages and Data/plan.xlsx
+
+process successful at 2022-04-22 11:33:14.047171
+exercise notes were found in ././content/10week/Session 8 - Averages and Data/notes
+
+process successful at 2022-04-22 11:33:14.049242
+Session 9 - Conversions was found and added to the site build
+
+process successful at 2022-04-22 11:33:14.051159
+found session structure for Session 9 - Conversions
+
+process successful at 2022-04-22 11:33:14.052157
+planning doc is located at ./content/10week/Session 9 - Conversions/plan.xlsx
+
+process successful at 2022-04-22 11:33:14.063535
+exercise notes were found in ././content/10week/Session 9 - Conversions/notes
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-22 11:59:11.025607 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+process successful at 2022-04-22 11:59:11.094684
+ content at the first level is ['Session 1 - Number Theory', 'Session 2 - Non Calculator Methods', 'Session 3 - Shape and Space (1)', 'Session 4 - Shape and Space (2)', 'Session 5 - Ratio and Proportion', 'Session 6 - FDP', 'Session 7 - Percentages', 'Session 8 - Averages and Data', 'Session 9 - Conversions']
+
+
+
+
+process successful at 2022-04-22 11:59:11.096680
+Session 1 - Number Theory was found and added to the site build
+
+process successful at 2022-04-22 11:59:11.098673
+found session structure for Session 1 - Number Theory
+
+process successful at 2022-04-22 11:59:11.098673
+planning doc is located at ./content/10week/Session 1 - Number Theory/plan.xlsx
+
+process successful at 2022-04-22 11:59:11.108787
+exercise notes were found in ././content/10week/Session 1 - Number Theory/notes
+
+process successful at 2022-04-22 11:59:11.110643
+Session 2 - Non Calculator Methods was found and added to the site build
+
+process successful at 2022-04-22 11:59:11.112637
+found session structure for Session 2 - Non Calculator Methods
+
+process successful at 2022-04-22 11:59:11.112637
+planning doc is located at ./content/10week/Session 2 - Non Calculator Methods/plan.xlsx
+
+process successful at 2022-04-22 11:59:11.124605
+exercise notes were found in ././content/10week/Session 2 - Non Calculator Methods/notes
+
+process successful at 2022-04-22 11:59:11.126599
+Session 3 - Shape and Space (1) was found and added to the site build
+
+process successful at 2022-04-22 11:59:11.127597
+found session structure for Session 3 - Shape and Space (1)
+
+process successful at 2022-04-22 11:59:11.128594
+planning doc is located at ./content/10week/Session 3 - Shape and Space (1)/plan.xlsx
+
+process successful at 2022-04-22 11:59:11.137570
+exercise notes were found in ././content/10week/Session 3 - Shape and Space (1)/notes
+
+process successful at 2022-04-22 11:59:11.138569
+Session 4 - Shape and Space (2) was found and added to the site build
+
+process successful at 2022-04-22 11:59:11.140562
+found session structure for Session 4 - Shape and Space (2)
+
+process successful at 2022-04-22 11:59:11.140562
+planning doc is located at ./content/10week/Session 4 - Shape and Space (2)/plan.xlsx
+
+process successful at 2022-04-22 11:59:11.148573
+exercise notes were found in ././content/10week/Session 4 - Shape and Space (2)/notes
+
+process successful at 2022-04-22 11:59:11.149538
+Session 5 - Ratio and Proportion was found and added to the site build
+
+process successful at 2022-04-22 11:59:11.150534
+found session structure for Session 5 - Ratio and Proportion
+
+process successful at 2022-04-22 11:59:11.151634
+planning doc is located at ./content/10week/Session 5 - Ratio and Proportion/plan.xlsx
+
+process successful at 2022-04-22 11:59:11.162503
+exercise notes were found in ././content/10week/Session 5 - Ratio and Proportion/notes
+
+process successful at 2022-04-22 11:59:11.163501
+Session 6 - FDP was found and added to the site build
+
+process successful at 2022-04-22 11:59:11.164497
+found session structure for Session 6 - FDP
+
+process successful at 2022-04-22 11:59:11.165495
+planning doc is located at ./content/10week/Session 6 - FDP/plan.xlsx
+
+process successful at 2022-04-22 11:59:11.175468
+exercise notes were found in ././content/10week/Session 6 - FDP/notes
+
+process successful at 2022-04-22 11:59:11.176465
+Session 7 - Percentages was found and added to the site build
+
+process successful at 2022-04-22 11:59:11.178463
+found session structure for Session 7 - Percentages
+
+process successful at 2022-04-22 11:59:11.178463
+planning doc is located at ./content/10week/Session 7 - Percentages/plan.xlsx
+
+process successful at 2022-04-22 11:59:11.187593
+exercise notes were found in ././content/10week/Session 7 - Percentages/notes
+
+process successful at 2022-04-22 11:59:11.190428
+Session 8 - Averages and Data was found and added to the site build
+
+process successful at 2022-04-22 11:59:11.191426
+found session structure for Session 8 - Averages and Data
+
+process successful at 2022-04-22 11:59:11.191426
+planning doc is located at ./content/10week/Session 8 - Averages and Data/plan.xlsx
+
+process successful at 2022-04-22 11:59:11.199404
+exercise notes were found in ././content/10week/Session 8 - Averages and Data/notes
+
+process successful at 2022-04-22 11:59:11.200401
+Session 9 - Conversions was found and added to the site build
+
+process successful at 2022-04-22 11:59:11.202396
+found session structure for Session 9 - Conversions
+
+process successful at 2022-04-22 11:59:11.202396
+planning doc is located at ./content/10week/Session 9 - Conversions/plan.xlsx
+
+process successful at 2022-04-22 11:59:11.211372
+exercise notes were found in ././content/10week/Session 9 - Conversions/notes
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-22 12:00:39.083258 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+process successful at 2022-04-22 12:00:39.126796
+ content at the first level is ['Session 1 - Number Theory', 'Session 2 - Non Calculator Methods', 'Session 3 - Shape and Space (1)', 'Session 4 - Shape and Space (2)', 'Session 5 - Ratio and Proportion', 'Session 6 - FDP', 'Session 7 - Percentages', 'Session 8 - Averages and Data', 'Session 9 - Conversions']
+
+
+
+
+process successful at 2022-04-22 12:00:39.128792
+Session 1 - Number Theory was found and added to the site build
+
+process successful at 2022-04-22 12:00:39.129812
+found session structure for Session 1 - Number Theory
+
+process successful at 2022-04-22 12:00:39.129812
+planning doc is located at ./content/10week/Session 1 - Number Theory/plan.xlsx
+
+process successful at 2022-04-22 12:00:39.138766
+exercise notes were found in ././content/10week/Session 1 - Number Theory/notes
+
+process successful at 2022-04-22 12:00:39.140762
+Session 2 - Non Calculator Methods was found and added to the site build
+
+process successful at 2022-04-22 12:00:39.142754
+found session structure for Session 2 - Non Calculator Methods
+
+process successful at 2022-04-22 12:00:39.143753
+planning doc is located at ./content/10week/Session 2 - Non Calculator Methods/plan.xlsx
+
+process successful at 2022-04-22 12:00:39.154723
+exercise notes were found in ././content/10week/Session 2 - Non Calculator Methods/notes
+
+process successful at 2022-04-22 12:00:39.156717
+Session 3 - Shape and Space (1) was found and added to the site build
+
+process successful at 2022-04-22 12:00:39.158711
+found session structure for Session 3 - Shape and Space (1)
+
+process successful at 2022-04-22 12:00:39.159708
+planning doc is located at ./content/10week/Session 3 - Shape and Space (1)/plan.xlsx
+
+process successful at 2022-04-22 12:00:39.171676
+exercise notes were found in ././content/10week/Session 3 - Shape and Space (1)/notes
+
+process successful at 2022-04-22 12:00:39.175517
+Session 4 - Shape and Space (2) was found and added to the site build
+
+process successful at 2022-04-22 12:00:39.176764
+found session structure for Session 4 - Shape and Space (2)
+
+process successful at 2022-04-22 12:00:39.177902
+planning doc is located at ./content/10week/Session 4 - Shape and Space (2)/plan.xlsx
+
+process successful at 2022-04-22 12:00:39.187729
+exercise notes were found in ././content/10week/Session 4 - Shape and Space (2)/notes
+
+process successful at 2022-04-22 12:00:39.189899
+Session 5 - Ratio and Proportion was found and added to the site build
+
+process successful at 2022-04-22 12:00:39.191719
+found session structure for Session 5 - Ratio and Proportion
+
+process successful at 2022-04-22 12:00:39.192715
+planning doc is located at ./content/10week/Session 5 - Ratio and Proportion/plan.xlsx
+
+process successful at 2022-04-22 12:00:39.202690
+exercise notes were found in ././content/10week/Session 5 - Ratio and Proportion/notes
+
+process successful at 2022-04-22 12:00:39.204684
+Session 6 - FDP was found and added to the site build
+
+process successful at 2022-04-22 12:00:39.205682
+found session structure for Session 6 - FDP
+
+process successful at 2022-04-22 12:00:39.205682
+planning doc is located at ./content/10week/Session 6 - FDP/plan.xlsx
+
+process successful at 2022-04-22 12:00:39.214657
+exercise notes were found in ././content/10week/Session 6 - FDP/notes
+
+process successful at 2022-04-22 12:00:39.218647
+Session 7 - Percentages was found and added to the site build
+
+process successful at 2022-04-22 12:00:39.220985
+found session structure for Session 7 - Percentages
+
+process successful at 2022-04-22 12:00:39.221768
+planning doc is located at ./content/10week/Session 7 - Percentages/plan.xlsx
+
+process successful at 2022-04-22 12:00:39.229622
+exercise notes were found in ././content/10week/Session 7 - Percentages/notes
+
+process successful at 2022-04-22 12:00:39.230926
+Session 8 - Averages and Data was found and added to the site build
+
+process successful at 2022-04-22 12:00:39.232610
+found session structure for Session 8 - Averages and Data
+
+process successful at 2022-04-22 12:00:39.233618
+planning doc is located at ./content/10week/Session 8 - Averages and Data/plan.xlsx
+
+process successful at 2022-04-22 12:00:39.243580
+exercise notes were found in ././content/10week/Session 8 - Averages and Data/notes
+
+process successful at 2022-04-22 12:00:39.245574
+Session 9 - Conversions was found and added to the site build
+
+process successful at 2022-04-22 12:00:39.246572
+found session structure for Session 9 - Conversions
+
+process successful at 2022-04-22 12:00:39.247605
+planning doc is located at ./content/10week/Session 9 - Conversions/plan.xlsx
+
+process successful at 2022-04-22 12:00:39.256545
+exercise notes were found in ././content/10week/Session 9 - Conversions/notes
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+New session started at -- 2022-04-22 12:04:19.044102 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+process successful at 2022-04-22 12:04:19.093385
+ content at the first level is ['Session 1 - Number Theory', 'Session 2 - Non Calculator Methods', 'Session 3 - Shape and Space (1)', 'Session 4 - Shape and Space (2)', 'Session 5 - Ratio and Proportion', 'Session 6 - FDP', 'Session 7 - Percentages', 'Session 8 - Averages and Data', 'Session 9 - Conversions']
+
+
+
+
+process successful at 2022-04-22 12:04:19.094381
+Session 1 - Number Theory was found and added to the site build
+
+process successful at 2022-04-22 12:04:19.095380
+found session structure for Session 1 - Number Theory
+
+process successful at 2022-04-22 12:04:19.095380
+planning doc is located at ./content/10week/Session 1 - Number Theory/plan.xlsx
+
+process successful at 2022-04-22 12:04:19.104513
+exercise notes were found in ././content/10week/Session 1 - Number Theory/notes
+
+process successful at 2022-04-22 12:04:19.106350
+Session 2 - Non Calculator Methods was found and added to the site build
+
+process successful at 2022-04-22 12:04:19.107349
+found session structure for Session 2 - Non Calculator Methods
+
+process successful at 2022-04-22 12:04:19.108365
+planning doc is located at ./content/10week/Session 2 - Non Calculator Methods/plan.xlsx
+
+process successful at 2022-04-22 12:04:19.115536
+exercise notes were found in ././content/10week/Session 2 - Non Calculator Methods/notes
+
+process successful at 2022-04-22 12:04:19.117321
+Session 3 - Shape and Space (1) was found and added to the site build
+
+process successful at 2022-04-22 12:04:19.118320
+found session structure for Session 3 - Shape and Space (1)
+
+process successful at 2022-04-22 12:04:19.119314
+planning doc is located at ./content/10week/Session 3 - Shape and Space (1)/plan.xlsx
+
+process successful at 2022-04-22 12:04:19.127327
+exercise notes were found in ././content/10week/Session 3 - Shape and Space (1)/notes
+
+process successful at 2022-04-22 12:04:19.129289
+Session 4 - Shape and Space (2) was found and added to the site build
+
+process successful at 2022-04-22 12:04:19.130286
+found session structure for Session 4 - Shape and Space (2)
+
+process successful at 2022-04-22 12:04:19.131377
+planning doc is located at ./content/10week/Session 4 - Shape and Space (2)/plan.xlsx
+
+process successful at 2022-04-22 12:04:19.139264
+exercise notes were found in ././content/10week/Session 4 - Shape and Space (2)/notes
+
+process successful at 2022-04-22 12:04:19.140268
+Session 5 - Ratio and Proportion was found and added to the site build
+
+process successful at 2022-04-22 12:04:19.141256
+found session structure for Session 5 - Ratio and Proportion
+
+process successful at 2022-04-22 12:04:19.142282
+planning doc is located at ./content/10week/Session 5 - Ratio and Proportion/plan.xlsx
+
+process successful at 2022-04-22 12:04:19.150259
+exercise notes were found in ././content/10week/Session 5 - Ratio and Proportion/notes
+
+process successful at 2022-04-22 12:04:19.152227
+Session 6 - FDP was found and added to the site build
+
+process successful at 2022-04-22 12:04:19.153307
+found session structure for Session 6 - FDP
+
+process successful at 2022-04-22 12:04:19.154222
+planning doc is located at ./content/10week/Session 6 - FDP/plan.xlsx
+
+process successful at 2022-04-22 12:04:19.161538
+exercise notes were found in ././content/10week/Session 6 - FDP/notes
+
+process successful at 2022-04-22 12:04:19.162785
+Session 7 - Percentages was found and added to the site build
+
+process successful at 2022-04-22 12:04:19.163200
+found session structure for Session 7 - Percentages
+
+process successful at 2022-04-22 12:04:19.164351
+planning doc is located at ./content/10week/Session 7 - Percentages/plan.xlsx
+
+process successful at 2022-04-22 12:04:19.172208
+exercise notes were found in ././content/10week/Session 7 - Percentages/notes
+
+process successful at 2022-04-22 12:04:19.173172
+Session 8 - Averages and Data was found and added to the site build
+
+process successful at 2022-04-22 12:04:19.174252
+found session structure for Session 8 - Averages and Data
+
+process successful at 2022-04-22 12:04:19.174252
+planning doc is located at ./content/10week/Session 8 - Averages and Data/plan.xlsx
+
+process successful at 2022-04-22 12:04:19.183147
+exercise notes were found in ././content/10week/Session 8 - Averages and Data/notes
+
+process successful at 2022-04-22 12:04:19.185140
+Session 9 - Conversions was found and added to the site build
+
+process successful at 2022-04-22 12:04:19.186137
+found session structure for Session 9 - Conversions
+
+process successful at 2022-04-22 12:04:19.187162
+planning doc is located at ./content/10week/Session 9 - Conversions/plan.xlsx
+
+process successful at 2022-04-22 12:04:19.194115
+exercise notes were found in ././content/10week/Session 9 - Conversions/notes
+
