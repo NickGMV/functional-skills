@@ -348,7 +348,7 @@ with open(main_page_path ,"w") as h:
 
 h = open(main_page_path,'a')
 h.write('''</ol><li onclick = 'changelink("./individual_topics.html")'>Individual topics</li>\n''')
-h.write(f'''<li onclick = 'changelink("https://calendly.com/functionalskillsbooking")' >Book a course or exam</li>''')
+h.write(f'''<li onclick = 'changelink("https://calendly.com/functionalskillsbooking")' >Book a 10 week course</li>''')
 h.write(f'''<li onclick = 'changelink("./assets/spec.pdf")' >The functional maths specification</li>''')
 h.write(f'''<li onclick = 'changelink("./bios/bios.html")' >About us</li>''')
 #endo fo nav list

@@ -2,6 +2,14 @@
   height:2px;
   overflow-y: hidden;
 }
+#team_photo{
+  width:80%;
+
+}
+.pdf{
+  margin-bottom: 2vh;
+  min-width:60%;
+}
 .table tr:hover .mod_desc{
   height:auto;
 }
@@ -163,7 +171,7 @@ img.bio{
   border-style:solid;
 }
 .content_wrapper{
-  width:79vw;
+  width:78vw;
   left:20vw;
   position: relative;
 }
@@ -203,8 +211,15 @@ img.bio{
 #navigation_individual::-webkit-scrollbar {
   display: none;
 }
+.bio_section::-webkit-scrollbar {
+  display: none;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
 #frame::-webkit-scrollbar {
   display: none;
+  width:0px;
 }
 
 #navigation_inner{
